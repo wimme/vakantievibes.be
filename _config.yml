@@ -1,0 +1,133 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: VakantieVibes
+email: info@vakantievibes.be
+description: >- # this means to ignore newlines until "baseurl:"
+  VakantieVibes is een blog over reizen, uitstapjes, bezienswaardigheden en wandelingen.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://vakantievibes.be" # the base hostname & protocol for your site, e.g. http://example.com
+locale: nl_BE
+lang: nl-BE
+social: # jekyll-seo-tag
+  name: "VakantieVibes.be"
+  links:
+    - https://www.instagram.com/vakantie.vibes/
+    - https://www.facebook.com/vakantievibes
+    - https://github.com/wimme/vakantievibes.be
+
+wimme:
+  logo: /assets/images/logo.svg
+  big_hero: true
+  header_nav:
+    - index.md
+    - about.md
+    - contact.md
+  footer_nav:
+    - disclaimer.md
+    - privacy.md
+  categories_title: 'Bestemmingen'
+  category_path: 'bestemming'
+  tags_title: 'Inspiratie'
+  tag_path: 'inspiratie'
+  social_links:
+    - { platform: "Feed", user_url: "https://vakantievibes.be/feed.xml" }
+    - { platform: "Instagram", user_url: "https://www.instagram.com/vakantie.vibes/" }
+    - { platform: "Facebook", user_url: "https://www.facebook.com/vakantievibes" }
+    - { platform: "GitHub", user_url: "https://github.com/wimme/vakantievibes.be" }
+  feed_url: "/feed.xml" # Allows using a feed publisher such as Feedburner
+  preconnect_urls:
+    - https://img.vakantievibes.be
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+remote_theme: wimme/jekyll-theme
+
+# Subscribe Feed
+feed:
+  excerpt_only: true
+  path: /feed.xml
+
+# Analytics
+matomo:
+  url: //analytics.wimme.net/
+  site_id: 2
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+exclude:
+  - README.md
+  - script/
+  - .vscode/
+  - .github/
+  - .gitignore
+  - googlef094e9a083a9b1fe.html
+  - tradetracker92e82187157d0086.html
+keep_files:
+  - .htaccess
+  - robots.txt
+  - favicon.ico
+  - BingSiteAuth.xml
+  - googlef094e9a083a9b1fe.html
+  - tradetracker92e82187157d0086.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: /:categories/:title/
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+  - scope:
+      path: "bestemming"
+    values:
+      layout: "category"
+  - scope:
+      path: "inspiratie"
+    values:
+      layout: "tag"
