@@ -44,16 +44,19 @@ blocks:
     caption: Vanuit Brussel zijn er dagelijks vluchten naar Mallorca. Een vlucht duurt ongeveer 2,5 uur.
     slides:
       - title: TUI fly
+        image: https://ti.tradetracker.net/?c=19678&m=2161712&a=471594&r=&t=html
         caption: Vluchten vanuit Brussel en Oostende.
         links:
           - title: TUI fly
             href: https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Fpalma-de-mallorca
       - title: Transavia
+        image: https://ti.tradetracker.net/?c=27948&m=2124747&a=471594&r=&t=html
         caption: Vlieg voordelig vanuit Brussel.
         links:
           - title: Transavia
             href: https://click.transavia.com/tickets/?tt=27948_12_471594_&r=%2Fbestemmingen%2Fnl-be%2Fspanje%2Fmallorca
       - title: Vueling
+        image: https://ti.tradetracker.net/?c=20107&m=1689165&a=471594&r=&t=html
         caption: Goedkope vluchten vanuit Brussel.
         links:
           - title: Vueling
