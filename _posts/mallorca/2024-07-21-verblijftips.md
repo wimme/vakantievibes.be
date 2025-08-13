@@ -4,6 +4,7 @@ description: "Enkele praktische tips en locaties waar wij verbleven op Mallorca.
 category: "Spanje/Balearen/Mallorca"
 tag: Verblijftips
 image: https://img.vakantievibes.be/IMG_3036.HEIC.jpg
+footer: mallorca
 keywords: [mallorca,zonvakantie,verblijven,verblijftips,vakantie,hotels,beste,aanraders,familie,gezin]
 gallery:
   - images:

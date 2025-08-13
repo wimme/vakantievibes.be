@@ -1,0 +1,67 @@
+title: Mallorca info
+blocks:
+  - title: Waar?
+    caption: Mallorca is een eiland dat behoort tot de Balearen, een eilandengroep in de Middellandse Zee gelegen ten oosten van het vasteland van Spanje en ten zuiden van Frankrijk. Mallorca is het grootste eiland van de Balearen.
+  - title: Wanneer?
+    caption: Tijdens de zomermaanden kan het erg warm zijn op Mallorca, ideaal om te luieren op het strand en afkoeling te zoeken in zee of het zwembad. Combineer je dit graag met wandelingen, dan zijn mei, juni en september een betere keuze. Tijdens de zomermaanden kan het zeer druk zijn.
+  - title: Hotels
+    slides:
+      - image: https://img.vakantievibes.be/IMG_4148.HEIC.jpg
+        title: Alua Boccaccio
+        caption: All-in hotel op wandelafstand van het strand en winkels.
+        links:
+          - title: Sunweb
+            href: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Falcudia%2Fhotel-roc-boccaccio
+          - title: Corendon
+            href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Falua-boccaccio
+      - image: https://img.vakantievibes.be/IMG_3036.HEIC.jpg
+        title: VIVA Eden Lago
+        caption: Onze keuze met kinderen!
+        links:
+          - title: TUI
+            href: https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Fmallorca%2Fviva-eden-lago-01872
+          - title: Sunweb
+            href: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Falcudia%2Fviva-eden-lago
+          - title: Corendon
+            href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Fviva-eden-lago
+      - image: https://img.vakantievibes.be/IMG_8492.HEIC.jpg
+        title: Blau Punta Reina
+        caption: Familie resort op Instagram waardige locatie.
+        links:
+          - title: TUI
+            href: https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Fmallorca%2Fblau-punta-reina-family-resort-01935
+          - title: Sunweb
+            href: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Fcala-mandia%2Fhotel-blau-punta-reina-resort
+          - title: Corendon
+            href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Fporto-cristo%2Fblau-punta-reina-family-resort
+      - image: https://img.vakantievibes.be/IMG_3071.edit.jpg
+        title: VIVA Golf
+        caption: Adults-only hotel met ideale ligging vlak aan het strand.
+        links:
+          - title: Corendon
+            href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Fviva-golf-hotel
+  - title: Vluchten
+    caption: Vanuit Brussel zijn er dagelijks vluchten naar Mallorca. Een vlucht duurt ongeveer 2,5 uur.
+    slides:
+      - title: TUI fly
+        caption: Vluchten vanuit Brussel en Oostende.
+        links:
+          - title: TUI fly
+            href: https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Fpalma-de-mallorca
+      - title: Transavia
+        caption: Vlieg voordelig vanuit Brussel.
+        links:
+          - title: Transavia
+            href: https://click.transavia.com/tickets/?tt=27948_12_471594_&r=%2Fbestemmingen%2Fnl-be%2Fspanje%2Fmallorca
+      - title: Vueling
+        caption: Goedkope vluchten vanuit Brussel.
+        links:
+          - title: Vueling
+            href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-naar-palmademallorca
+  - title: Autoverhuur
+    slides:
+      - title: Sunnycars
+        caption: Altijd all-in verzekerd met Nederlandstalige klantenservice. Je kan de auto ophalen op de luchthaven van Palma de Mallorca.
+        links:
+          - title: Sunnycars
+            href: https://www.sunnycars.be/huureenauto/?tt=21133_12_471594_&r=%2Fauto-huren%2Fmallorca%2F

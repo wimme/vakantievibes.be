@@ -4,6 +4,7 @@ description: "Verken Oost-Mallorca, waar cultuur en kust in harmonie samenkomen.
 category: "Spanje/Balearen/Mallorca"
 tags: Vliegvakantie Roadtrip
 image: https://img.vakantievibes.be/IMG_8028.HEIC.jpg
+footer: mallorca
 keywords: [arta,porto cristo,mondrago,es pontas,mallorca,zonvakantie,bezienswaardigheden,wattedoen,wandelen]
 gallery:
   - images:
@@ -209,17 +210,3 @@ Is een indrukwekkende natuurlijke rotsformatie in de vorm van een boog. Via een 
 ### Caló des Moro
 
 Is een relatief klein maar prachtig strand, gelegen diep in een baai van hoge kliffen. Hierdoor is het wat moeilijker te vinden. Je moet er ook wat moeite voor doen om het te bereiken, er zijn geen faciliteiten.
-
-> ### Mallorca Info
->
-> #### Waar?
->
-> Mallorca is een eiland dat behoort tot de Balearen, een eilandengroep in de Middellandse Zee gelegen ten oosten van het vasteland van Spanje en ten zuiden van Frankrijk. Mallorca is het grootste eiland van de Balearen.
->
-> #### Wanneer?
->
-> Tijdens de zomermaanden kan het erg warm zijn op Mallorca, ideaal om te luieren op het strand en afkoeling te zoeken in zee of het zwembad. Combineer je dit graag met wandelingen, dan zijn mei, juni en september een betere keuze. Tijdens de zomermaanden kan het zeer druk zijn.
->
-> #### Hoe?
->
-> Vanuit Brussel zijn er dagelijks [vluchten](https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Fpalma-de-mallorca) naar Mallorca. Een vlucht duurt ongeveer 2,5 uur. Ook vanuit de regionale luchthavens zoals Oostende zijn er vluchten naar Mallorca.

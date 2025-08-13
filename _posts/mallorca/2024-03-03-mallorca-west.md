@@ -4,6 +4,7 @@ description: "Ontdek de ongeëvenaarde charme van West-Mallorca, waar traditione
 category: "Spanje/Balearen/Mallorca"
 tags: Vliegvakantie Roadtrip
 image: https://img.vakantievibes.be/IMG_4311.HEIC.jpg
+footer: mallorca
 keywords: [formentor,alcudia,pollenca,sa calobra,soller,palma,mallorca,zonvakantie,bezienswaardigheden,wattedoen,wandelen,fietsen]
 gallery:
   - images:
@@ -239,17 +240,3 @@ Palma de Mallorca, de bruisende hoofdstad van het eiland, is een must-visit best
 #### Es Trenc
 
 Op slechts een korte afstand van Palma vind je het prachtige strand van Es Trenc, dat vaak wordt beschouwd als een van de mooiste stranden van Mallorca. Met zijn kristalheldere water en zacht wit zand, biedt het een perfecte plek om te zonnebaden en te ontspannen. Vergeet niet om de lokale zeevruchten te proeven in een van de nabijgelegen restaurants.
-
-> ### Mallorca Info
->
-> #### Waar?
->
-> Mallorca is een eiland dat behoort tot de Balearen, een eilandengroep in de Middellandse Zee gelegen ten oosten van het vasteland van Spanje en ten zuiden van Frankrijk. Mallorca is het grootste eiland van de Balearen.
->
-> #### Wanneer?
->
-> Tijdens de zomermaanden kan het erg warm zijn op Mallorca, ideaal om te luieren op het strand en afkoeling te zoeken in zee of het zwembad. Combineer je dit graag met wandelingen, dan zijn mei, juni en september een betere keuze. Tijdens de zomermaanden kan het zeer druk zijn.
->
-> #### Hoe?
->
-> Vanuit Brussel zijn er dagelijks [vluchten](https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Fpalma-de-mallorca) naar Mallorca. Een vlucht duurt ongeveer 2,5 uur. Ook vanuit de regionale luchthavens zoals Oostende zijn er vluchten naar Mallorca.
