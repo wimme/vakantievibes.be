@@ -72,13 +72,9 @@ Het uitzicht is dus minder "wild" maar wel groen en rustgevend.
 <div>
 {%- assign gallery = page.gallery[1] -%}
 {%- include gallery.html gallery=gallery -%}
-</div>
-
-<div>
 {%- assign gallery = page.gallery[2] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
-
 
 ### Veranderingen & nieuwe faciliteiten
 
@@ -110,9 +106,6 @@ Extra voordeel van een Kidsjungalow: omheind terras voor veiligheid, ligging vla
 <div>
 {%- assign gallery = page.gallery[3] -%}
 {%- include gallery.html gallery=gallery -%}
-</div>
-
-<div>
 {%- assign gallery = page.gallery[4] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
@@ -151,9 +144,6 @@ Wij deden ongeveer drie uur over ons bezoek aan Eindhoven Zoo, inclusief lunchpa
 <div>
 {%- assign gallery = page.gallery[5] -%}
 {%- include gallery.html gallery=gallery -%}
-</div>
-
-<div>
 {%- assign gallery = page.gallery[6] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
@@ -174,6 +164,6 @@ Tip: Download vooraf de Beekse Bergen app. Je vindt er plattegronden, voedertijd
 
 Wil je net als ons ook overnachten in Beekse Bergen? Meer informatie en tickets zijn terug te vinden op de website van [Beekse Bergen](https://www.beeksebergen.nl/vakantiepark/ttnl/?tt=23641_12_471594_&r=){:rel="nofollow"}.
 
-<a href="https://www.beeksebergen.nl/vakantiepark/ttnl/?tt=23641_970943_471594_&r=" target="_blank" rel="nofollow"><img src="https://ti.tradetracker.net/?c=23641&m=970943&a=471594&r=&t=html" width="250" height="250" alt="" /></a>
+[![Beekse Bergen Lake Resort](https://ti.tradetracker.net/?c=23641&m=970943&a=471594&r=&t=html){:width="250" height="250"}](https://www.beeksebergen.nl/vakantiepark/ttnl/?tt=23641_970943_471594_&r=){:rel="nofollow"}
 
 *Noot: deze post is niet gesponsord door Beekse Bergen, wij hebben onze verblijven volledig zelf betaald en komen zeker nog terug!*
