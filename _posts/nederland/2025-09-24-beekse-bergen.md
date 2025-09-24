@@ -121,7 +121,6 @@ Extra voordeel van een Kidsjungalow: omheind terras voor veiligheid, ligging vla
 * Wandelschoenen die vuil mogen worden (wandelwegen zijn erg stoffig)
 * Strandspeelgoed voor de kinderen
 * Badhanddoeken
-* Dekbedovertrekken en kussenovertrekken
 * Handzeep, shampoo, douchegel
 * Keukenhanddoek + eventueel afwasmiddel (enkele vaatwastabletten zijn aanwezig)
 * Extra wc-papier bij langer verblijf
