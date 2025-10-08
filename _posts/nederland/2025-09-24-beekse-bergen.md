@@ -47,6 +47,8 @@ gallery:
       caption: "Eindhoven Zoo"
 ---
 
+## Verblijven in Beekse Bergen Lake Resort
+
 Stel je voor: wakker worden met het geluid van fluitende vogels, ontbijten met uitzicht op een glinsterend meer en daarna op safari langs leeuwen, giraffen en neushoorns. Dat is precies wat wij beleefden tijdens onze verblijven in [Beekse Bergen](https://www.beeksebergen.nl/vakantiepark/ttnl/?tt=23641_12_471594_&r=){:rel="nofollow"}. Dit enorme park in Noord-Brabant (Nederland) combineert de charme van een vakantie aan het water met de spanning van een Afrikaans avontuur.
 
 <div>
