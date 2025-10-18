@@ -119,3 +119,4 @@ Voor ons was dit niet zomaar een uitstap, maar een herinnering die we nog vaak z
 * Voederuren: zorg dat je tijdens die momenten exclusief voor resortgasten in of bij je kamer bent, dan maak je de meeste kans op actief gedrag van de dieren.
 * Na sluiting: plan zeker een avondwandeling door het park – de rust en sfeer zijn onbetaalbaar.
 * Met kinderen: het buffetrestaurant Izba is een praktische en smakelijke keuze.
+* Inbegrepen: 2 dagen toegang tot het ganse park, parking, avondeten en ontbijt.
