@@ -21,7 +21,7 @@
 title: VakantieVibes
 email: info@vakantievibes.be
 description: >- # this means to ignore newlines until "baseurl:"
-  VakantieVibes is een blog over reizen, uitstapjes, bezienswaardigheden en wandelingen.
+  VakantieVibes is een reisblog vol inspiratie voor je volgende uitstap, vakantie, of wandeling, inclusief tips en bezienswaardigheden.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vakantievibes.be" # the base hostname & protocol for your site, e.g. http://example.com
 locale: nl_BE
@@ -39,10 +39,11 @@ wimme:
   header_nav:
     - index.md
     - about.md
-    - contact.md
+    - uitgetest.md
   footer_nav:
     - disclaimer.md
     - privacy.md
+    - contact.md
   categories_title: 'Bestemmingen'
   category_path: 'bestemming'
   tags_title: 'Inspiratie'
