@@ -48,6 +48,7 @@ wimme:
   category_path: 'bestemming'
   tags_title: 'Inspiratie'
   tag_path: 'inspiratie'
+  toc_title: 'Inhoud'
   social_links:
     - { platform: "Feed", user_url: "https://vakantievibes.be/feed.xml" }
     - { platform: "Instagram", user_url: "https://www.instagram.com/vakantie.vibes/" }
