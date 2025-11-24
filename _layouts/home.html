@@ -1,0 +1,86 @@
+---
+layout: base
+---
+
+<div class="page clear">
+  {%- if page.image -%}
+    <div id="hero" class="hero hero-home">
+      <div class="hero-image delayed-bgimage-load" data-bgsrc="{{ page.image }}"></div>
+      <div class="hero-content">
+        <h3 class="hero-title">{{ page.subtitle | default: page.title | escape }}</h3>
+        <p>{{ page.description }}</p>
+      </div>
+    </div>
+  {%- elsif page.title -%}
+    <div class="hentry clear">
+      <h2>{{ page.title }}</h2>
+    </div>
+  {%- endif -%}
+
+  <div class="page-section hentry">
+    <h3>Nieuwste inspiratie</h3>
+    <div class="news-feed carousel-container gallery">
+      <div class="carousel-track">
+        {%- for post in site.posts limit: 5 -%}
+          <div class="news-item carousel-slide " itemscope itemtype="http://schema.org/Article">
+            <div class="news-thumbnail delayed-bgimage-load" data-bgsrc="{{ post.image }}"></div>
+            <div class="news-header">
+              <div class="news-meta">
+                {%- if post.categories -%}
+                  <span class="post-category">
+                    {%- for category_path in post.categories -%}
+                      {%- assign categories = category_path | split: '/' -%}
+                      {%- for category in categories -%}
+                        <a href="{{ site.baseurl }}/{{ site.wimme.category_path | default: 'category' }}/{%- for c in categories limit: forloop.index -%}{{ c | slugify }}/{%- endfor -%}">{{category}}</a>
+                      {%- endfor -%}
+                    {%- endfor -%}
+                  </span>
+                {%- endif -%}
+                <span class="post-time" itemprop="datePublished" content="{{ post.date | date: date_to_xmlschema }}">{{ post.date | date: "%-d %b %Y" }}</span>
+              </div>
+              <h3 class="title" itemprop="name"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+              {%- if site.show_excerpts -%}
+                <div class="news-content" itemprop="articleBody">{{ post.excerpt }}</div>
+              {%- endif -%}
+            </div>
+          </div>
+        {%- endfor -%}
+      </div>
+    </div>
+  </div>
+
+  {%- if site.data.all_markers.size > 0 and site.wimme.mapbox.access_token -%}
+    <div class="page-section hentry clear">
+      <h3>Onze bestemmingen op de kaart</h3>
+      <div class="gallery">
+        {%- include map.html id='map-home' markers=site.data.all_markers -%}
+      </div>
+    </div>
+  {%- endif -%}
+
+  <div class="page-section hentry clear">
+    <h3>Meer inspiratie</h3>
+    <div class="gallery">
+      <ul class="news-feed tags">
+        {%- assign tags = site.tags | sort -%}
+        {%- for tag in tags -%}
+          {%- assign tag_name = tag[0] -%}
+          {%- assign slug = tag_name | slugify -%}
+          {%- assign tag_image = nil -%}
+          {%- for page in site.pages -%}
+            {%- if page.tag == tag_name -%}
+              {%- assign tag_image = page.image -%}
+              {%- break -%}
+            {%- endif -%}
+          {%- endfor -%}
+          <li>
+            <div class="news-thumbnail delayed-bgimage-load" data-bgsrc="{{ tag_image }}"></div>
+            <div class="news-header">
+              <h3 class="title"><a href="{{ site.baseurl }}/{{ site.wimme.tag_path | default: 'tag' }}/{{ slug }}/">{{ tag_name | escape }}</a></h3>
+            </div>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</div>
