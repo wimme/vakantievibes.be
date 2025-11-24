@@ -39,6 +39,11 @@ gallery:
       caption: "Land of the Giants - The Land of the Past"
     - src: https://img.vakantievibes.be/IMG_9010.HEIC.jpg
       caption: "Vulcain - The Land of the Past"
+map:
+  markers:
+    - title: Pairi Daiza
+      position: [50.584722, 3.887222]
+      image: https://img.vakantievibes.be/01.jpg
 ---
 
 ## Slapen bij de ijsberen in Pairi Daiza – onze ervaring en tips
@@ -112,7 +117,7 @@ Het geheel voelde niet als een gewone overnachting, maar als een unieke beleveni
 
 Voor ons was dit niet zomaar een uitstap, maar een herinnering die we nog vaak zullen koesteren.
 
-## Praktische tips
+### Praktische tips
 
 * Boeken: de verblijven zijn populair, vroeg boeken is dan ook aan te raden.
 * Kamerkeuze: wil je maximale beleving, kies dan voor een kamer met oog-in-oog zicht op de dieren.

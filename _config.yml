@@ -45,10 +45,13 @@ wimme:
     - privacy.md
     - contact.md
   categories_title: 'Bestemmingen'
+  category_title: 'Bestemming'
   category_path: 'bestemming'
   tags_title: 'Inspiratie'
+  tag_title: 'Inspiratie'
   tag_path: 'inspiratie'
   toc_title: 'Inhoud'
+  map_title: 'Kaart'
   social_links:
     - { platform: "Feed", user_url: "https://vakantievibes.be/feed.xml" }
     - { platform: "Instagram", user_url: "https://www.instagram.com/vakantie.vibes/" }
@@ -57,12 +60,13 @@ wimme:
   feed_url: "/feed.xml" # Allows using a feed publisher such as Feedburner
   preconnect_urls:
     - https://img.vakantievibes.be
+  mapbox:
+    access_token: 'pk.eyJ1Ijoid2ltbWUiLCJhIjoiY21obnN1OHVkMDQ2ZjJyc2E0aGduc25vMSJ9.lWZGx5LyuUlpMHhsccUMmg'
 
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
 

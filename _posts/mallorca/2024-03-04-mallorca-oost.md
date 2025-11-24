@@ -59,6 +59,63 @@ gallery:
   - images:
     - src: https://img.vakantievibes.be/IMG_8097.HEIC.jpg
       caption: "Es Pontàs"
+map:
+  markers:
+    - title: Artà
+      position: [39.6954859, 3.3524712]
+      anchor: '#artà'
+      image: https://img.vakantievibes.be/IMG_8205.HEIC.jpg
+    - title: Cuevas d'Artà
+      position: [39.6561, 3.4508]
+      anchor: '#cuevas-dartà'
+    - title: Capdepera
+      position: [39.7042258, 3.4326377]
+      anchor: '#capdepera'
+    - title: Son Servera
+      position: [39.620833, 3.36]
+      anchor: '#son-servera'
+    - title: Sa Punta de n'Amer
+      position: [39.58, 3.396111]
+      anchor: '#sa-punta-de-namer'
+    - title: Porto Cristo
+      position: [39.5413434, 3.3352406]
+      anchor: '#porto-cristo'
+      image: https://img.vakantievibes.be/IMG_8261.HEIC.jpg
+    - title: Cala Romantica
+      position: [39.5166296, 3.3097726]
+      anchor: '#cala-romantica-sestany-den-mas'
+      image: https://img.vakantievibes.be/IMG_8028.HEIC.jpg
+    - title: Cova des Pont
+      position: [39.500184, 3.299906]
+      anchor: '#cova-des-pont--pont-natural-des-caló-blanc'
+      image: https://img.vakantievibes.be/IMG_8374.HEIC.jpg
+    - title: Cala Blanc
+      position: [39.5004952, 3.2989162]
+      anchor: '#cala-blanc'
+      image: https://img.vakantievibes.be/IMG_8381.HEIC.jpg
+    - title: Cala Varques
+      position: [39.5001511, 3.2957136]
+      anchor: '#cala-varques'
+      image: https://img.vakantievibes.be/IMG_8383.HEIC.jpg
+    - title: Cala Mondragó
+      position: [39.352167, 3.1882154]
+      anchor: '#cala-mondragó--caló-de-sa-font-de-nalis'
+      image: https://img.vakantievibes.be/IMG_8110.HEIC.jpg
+    - title: S'Amarador
+      position: [39.3497837, 3.1853886]
+      anchor: '#samarador'
+      image: https://img.vakantievibes.be/IMG_8140.HEIC.jpg
+    - title: Caló des Borgit
+      position: [39.352578, 3.1928739]
+      anchor: '#caló-des-borgit'
+      image: https://img.vakantievibes.be/IMG_8171.HEIC.jpg
+    - title: Es Pontàs
+      position: [39.3256425, 3.1443818]
+      anchor: '#es-pontàs'
+      image: https://img.vakantievibes.be/IMG_8097.HEIC.jpg
+    - title: Caló des Moro
+      position: [39.3137309, 3.1215462]
+      anchor: '#caló-des-moro'
 ---
 
 Verken de betoverende wereld van Oost-Mallorca, waar cultuur en kust in harmonie samenkomen. Ontdek historische schatten, geniet van culinaire hoogstandjes en laat je meevoeren door de mediterrane magie van deze oostelijke regio.
@@ -90,9 +147,9 @@ Is een historische stad vlakbij Artà, omringd door hoge muren die de piraten mo
 
 Dit dorpje is vooral gekend voor z'n onafgewerkte Església Nova ("nieuwe kerk") in neogotische stijl. De bouw werd gestart in 1905 door architect Juan Rubió Bellver die samenwerkt met Antoni Gaudí (de basiliek Sagrada Família in Barcelona, ook onafgewerkt).
 
-### Punta de n'Amer
+### Sa Punta de n'Amer
 
-Het schiereiland Punta de n'Amer, een prachtige natuurlijke enclave, biedt adembenemende uitzichten op de Middellandse Zee. Vanuit Sa Coma kan je een rondwandeling maken door het natuurdomein. Op de top staat een 17e-eeuwse wachttoren die werd gebouwd om de kust te beschermen. Beklim de toren voor een panoramisch uitzicht over de omgeving.
+Het schiereiland Sa Punta de n'Amer, een prachtige natuurlijke enclave, biedt adembenemende uitzichten op de Middellandse Zee. Vanuit Sa Coma kan je een rondwandeling maken door het natuurdomein. Op de top staat een 17e-eeuwse wachttoren die werd gebouwd om de kust te beschermen. Beklim de toren voor een panoramisch uitzicht over de omgeving.
 
 ### Porto Cristo
 

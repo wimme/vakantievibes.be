@@ -87,6 +87,60 @@ gallery:
   - images:
     - src: https://img.vakantievibes.be/IMG_3026.edit.jpg
       caption: "Palma de Mallorca"
+map:
+  markers:
+    - title: Cap de Formentor
+      position: [39.947222, 3.180833]
+      anchor: '#cap-de-formentor'
+      image: https://img.vakantievibes.be/IMG_4285.HEIC.jpg
+    - title: Alcúdia
+      position: [39.8525, 3.119167]
+      anchor: '#alcúdia'
+      image: https://img.vakantievibes.be/IMG_4068.HEIC.jpg
+    - title: Port de Alcúdia
+      position: [39.841819, 3.132911]
+      anchor: '#port-de-alcúdia'
+      image: https://img.vakantievibes.be/IMG_4467.HEIC.jpg
+    - title: Parc natural de s'Albufera de Mallorca
+      position: [39.783333, 3.1]
+      anchor: '#parc-natural-de-salbufera-de-mallorca'
+      image: https://img.vakantievibes.be/IMG_4358.edit.jpg
+    - title: Pollença
+      position: [39.877222, 3.016389]
+      anchor: '#pollença'
+      image: https://img.vakantievibes.be/IMG_2754-Edit.jpg
+    - title: Sa Calobra
+      position: [39.8508765, 2.7998048]
+      anchor: '#sa-calobra'
+      image: https://img.vakantievibes.be/IMG_4154.edit.jpg
+    - title: Deià
+      position: [39.7463831, 2.6482153]
+      anchor: '#deià'
+    - title: Sóller
+      position: [39.7663166, 2.7151018]
+      anchor: '#sóller'
+      image: https://img.vakantievibes.be/IMG_3181.edit.jpg
+    - title: Fornalutx
+      position: [39.7825192, 2.7407376]
+      anchor: '#fornalutx'
+      image: https://img.vakantievibes.be/IMG_4227.edit.jpg
+    - title: Banyalbufar
+      position: [39.687778, 2.516667]
+      anchor: '#banyalbufar'
+    - title: Estellencs
+      position: [39.653333, 2.481389]
+      anchor: '#estellencs'
+    - title: Valldemossa
+      position: [39.711678, 2.622581]
+      anchor: '#valldemossa'
+      image: https://img.vakantievibes.be/IMG_2833.edit.jpg
+    - title: Palma de Mallorca
+      position: [39.566667, 2.65]
+      anchor: '#palma-de-mallorca'
+      image: https://img.vakantievibes.be/IMG_3026.edit.jpg
+    - title: Es Trenc
+      position: [39.339167, 2.989167]
+      anchor: '#es-trenc'
 ---
 
 Ontdek de ongeëvenaarde charme van West-Mallorca, waar traditionele dorpjes harmoniëren met adembenemende natuurlijke landschappen. Verken afgelegen baaien en zonovergoten stranden, omgeven door weelderige bergen.
