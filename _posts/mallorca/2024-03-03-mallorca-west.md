@@ -124,6 +124,9 @@ map:
       position: [39.7825192, 2.7407376]
       anchor: '#fornalutx'
       image: https://img.vakantievibes.be/IMG_4227.edit.jpg
+    - title: Biniaraix
+      position: [39.771029, 2.734651]
+      anchor: '#biniaraix'
     - title: Banyalbufar
       position: [39.687778, 2.516667]
       anchor: '#banyalbufar'
@@ -224,6 +227,8 @@ Deià is een pittoresk dorpje dat bekend is voor zijn natuurlijke schoonheid en 
 
 Aan het strandje Cala Deià kan je lunchen bij Ca's Patró March (reserveren vooraf is noodzakelijk).
 
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/mallorca/s-empeltada-cala-deya-mirador-de-son-bujosa?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Deià - Cala Deià"></iframe>
+
 #### Sóller
 
 De stad Sóller heeft een rijke geschiedenis en staat bekend om zijn prachtige modernistische architectuur. Het centrale plein, Plaça Constitució, is een ontmoetingsplek met cafés en restaurants, en wordt omringd door indrukwekkende gebouwen met architectonische details die de geschiedenis van de stad weerspiegelen.
@@ -246,14 +251,22 @@ Een betoverend authentiek bergdorpje met uitzicht op Sóller. Het is uitgeroepen
 
 Je door de smalle straatjes slenteren, genieten van de kleurrijke bloemen die de huizen sieren en de traditionele architectuur bewonderen. Fornalutx heeft ook een aantal gezellige cafés, vooral rond het centrale plein Plaça d'España.
 
-In de regio zijn talloze wandelpaden die je meenemen door het prachtige landschap en langs stromende beekjes. Een populaire route is de wandeling naar de nabijgelegen Barranc de Biniaraix, een adembenemende kloof met watervallen en weelderige vegetatie. Er is ook de GR221 lange afstandsroute die zich over de volledige lengte van de bergketen slingert. En je kan ook wandelen naar Sóller.
-
 <div>
 {%- assign gallery = page.gallery[11] -%}
 {%- include gallery.html gallery=gallery -%}
 {%- assign gallery = page.gallery[12] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+In de regio zijn talloze wandelpaden die je meenemen door het prachtige landschap en langs stromende beekjes. Een populaire route is de wandeling naar de nabijgelegen Barranc de Biniaraix, een adembenemende kloof met watervallen en weelderige vegetatie. Er is ook de GR221 lange afstandsroute die zich over de volledige lengte van de bergketen slingert. En je kan ook wandelen naar Sóller.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/mallorca/soller-fortnalux-biniaraix?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Sóller - Binibassí - Fortnalux - Biniaraix"></iframe>
+
+#### Biniaraix
+
+Biniaraix is een klein, schilderachtig dorpje op Mallorca dat bekendstaat om zijn rust en authenticiteit. Vanuit het dorpsplein vertrek je rechtstreeks richting de indrukwekkende Biniaraix-kloof, een van de mooiste wandelroutes van de Serra de Tramuntana. Het eeuwenoude pad met stenen treden slingert tussen steile rotswanden en olijfgaarden door.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/mallorca/barranc-de-biniaraix-gr-221-cami-vell?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Barranc de Biniaraix"></iframe>
 
 #### Banyalbufar
 

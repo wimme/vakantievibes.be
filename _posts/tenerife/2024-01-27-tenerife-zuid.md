@@ -55,6 +55,56 @@ gallery:
       caption: "Playa Paraíso"
     - src: https://img.vakantievibes.be/IMG_6145.HEIC.jpg
       caption: "Playa Paraíso"
+map:
+  markers:
+    - title: La Caleta
+      position: [28.100246, -16.755426]
+      anchor: '#la-caleta'
+      image: https://img.vakantievibes.be/IMG_5589.HEIC.jpg
+    - title: Costa Adeje
+      position: [28.080399, -16.733644]
+      anchor: '#costa-adeje'
+      image: https://img.vakantievibes.be/IMG_0571.HEIC.jpg
+    - title: El Duque
+      position: [28.0909827, -16.7393117]
+      anchor: '#el-duque'
+      image: https://img.vakantievibes.be/IMG_0979.JPG
+    - title: Siam Park
+      position: [28.0718275, -16.7266637]
+      anchor: '#siam-park'
+    - title: Aqualand
+      position: [28.0802824, -16.7282189]
+      anchor: '#aqualand'
+    - title: Barranco del Infierno
+      position: [28.126292, -16.723750]
+      anchor: '#barranco-del-infierno'
+    - title: Playa de las Américas
+      position: [28.055078, -16.731666]
+      anchor: '#playa-de-las-américas'
+      image: https://img.vakantievibes.be/IMG_0678%20-%20Edit.jpg
+    - title: Los Cristianos
+      position: [28.050940, -16.718598]
+      anchor: '#los-cristianos'
+      image: https://img.vakantievibes.be/IMG_1065.JPG
+    - title: Costa del Silencio
+      position: [28.005773, -16.645662]
+      anchor: '#costa-del-silencio'
+    - title: Los Abrigos
+      position: [28.028940, -16.593397]
+      anchor: '#los-abrigos'
+      image: https://img.vakantievibes.be/IMG_6177.HEIC.jpg
+    - title: El Médano
+      position: [28.043368, -16.540051]
+      anchor: '#el-médano'
+      image: https://img.vakantievibes.be/IMG_1323.JPG
+    - title: La Montaña Roja
+      position: [28.027116, -16.548951]
+      anchor: '#la-montaña-roja'
+      image: https://img.vakantievibes.be/IMG_1240.JPG
+    - title: Playa Paraíso
+      position: [28.119959, -16.778500]
+      anchor: '#playa-paraíso'
+      image: https://img.vakantievibes.be/IMG_6132.HEIC.jpg
 ---
 
 Tegenwoordig één van de drukste toeristische gebieden van de Canarische Eilanden. Het klimaat is er subtropisch, met een gemiddelde temperatuur tussen 18 en 25 graden is het er ook in de winter zalig genieten van de zon.
@@ -104,8 +154,11 @@ Een waterpark met veel glijbanen en er verblijven ook dolfijnen. Meer info op [a
 
 ### Barranco del Infierno
 
-Is een smalle ravijn nabij de stad Adeje. Via een 3 km lang wandelpad kan je door deze ravijn stappen naar de hoogste waterval op Tenerife (opgelet: openingstijden en het aantal bezoekers per dag zijn beperkt, reserveren is verplicht op [barrancodelinfierno.es](https://www.barrancodelinfierno.es)).
+Is een smalle ravijn nabij de stad Adeje. Via een 3 km lang wandelpad kan je door deze ravijn stappen naar de hoogste waterval op Tenerife (opgelet: openingstijden en het aantal bezoekers per dag zijn beperkt, reserveren is verplicht op [barrancodelinfierno.es](https://www.barrancodelinfierno.es)). Parking: Casa Fuerte.
+
 In deze regio zijn honderden grotten waar de Guanchen, de oorspronkelijke inwoners van Tenerife, woonden. Er werd ook een grote collectie mummies van de Guanchen gevonden, die nu tentoongesteld zijn in het MUNA museum in Santa Cruz.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/barranco-del-infierno?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Barranco del Infierno (Hell's Ravine)"></iframe>
 
 ### Playa de las Américas
 
@@ -131,8 +184,10 @@ Van oorsprong een rustig vissersdorpje, waar het tegenwoordig een mengelmoes is 
 
 Een toeristische regio vlakbij het dorpje Las Galletas. In de jaren 1980 was het dankzij TenBel het centrum van toerisme in het zuiden van Tenerife. Door het succes van Playa de las Américas en het faillissement van TenBel werd de regio meer en meer verloederd. Ook al kopen Belgen nu vlugger iets in andere regio's, de regio blijft nog steeds het centrum waar Belgen zich verenigen. Recent doet de Spaanse overheid meer investeringen om de regio terug op te waarderen.
 
-Vanuit Costa del Silencio (Calle Olimpia) kan je langs de kust wandelen naar Los Abrigos (8 km), door het natuurgebied van de Montaña Amarilla en de nieuwe wandelpromenade aan de Marina de San Miguel.
+Vanuit Costa del Silencio (Calle Olimpia) kan je langs de kust wandelen naar Los Abrigos (8 km), door het natuurgebied van de Montaña Amarilla (de “Gele Berg”) en de nieuwe wandelpromenade aan de Marina de San Miguel.
 In de andere richting kan je wandelen langs de kust naar Palm Mar (6 km), door het “Malpaís de Rasca” natuurreservaat, onderweg kom je de vuurtoren van Punta Rasca tegen.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/lanzarote/montana-amarilla-los-abrigos?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Montaña Amarilla - Los Abrigos"></iframe>
 
 ### Los Abrigos
 
@@ -155,6 +210,8 @@ Het beschermd natuurgebied van de “Rode Berg” ligt tussen twee stranden en d
 {%- assign gallery = page.gallery[7] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/playa-leocadio-machado-montana-roja-montana-bocinegro?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
 ### Playa Paraíso
 

@@ -151,6 +151,8 @@ Dit dorpje is vooral gekend voor z'n onafgewerkte Església Nova ("nieuwe kerk")
 
 Het schiereiland Sa Punta de n'Amer, een prachtige natuurlijke enclave, biedt adembenemende uitzichten op de Middellandse Zee. Vanuit Sa Coma kan je een rondwandeling maken door het natuurdomein. Op de top staat een 17e-eeuwse wachttoren die werd gebouwd om de kust te beschermen. Beklim de toren voor een panoramisch uitzicht over de omgeving.
 
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/mallorca/sa-coma-punta-de-n-amer?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Sa Coma - Punta de n'Amer"></iframe>
+
 ### Porto Cristo
 
 Porto Cristo, een schilderachtig vissersdorpje, is de thuisbasis van de beroemde Cuevas del Drach (Drach-grotten). Wandel door de betoverende ondergrondse grotten en ervaar een magische boottocht over het ondergrondse meer Lake Martel. Meer info op [cuevasdeldrach.com](https://www.cuevasdeldrach.com/en/).
@@ -176,6 +178,8 @@ Is een van de meest magische bestemmingen, je kan er verblijven dicht bij de kus
 Vanuit Cala Romantica (parking beschikbaar) kan je prachtig wandelen naar het strandje Cala Varques (niet geschikt met de buggy). Heen en terug is het 7 km, door de oneffen rotsachtige ondergrond doe je er vlug 3 uren over. Er is geen beschutting voor de zon, in de zomer is het te warm om deze wandeling te doen. Tip: neem je zwemgerief mee!
 
 Startpunt is op het einde van het strand, achter de palen van het volleybalnet, voor het Cala Romantica Hotel. Beklim de klif (vrij steil in het begin), al ben je vlug boven en is het genieten van prachtige uitzichten. Vanaf hier zie je een duidelijk wandelpad dat parallel met de kust verder loopt. Na een uur stappen kom je een eerste inham tegen (Cala Falcó). Hier moet je even afdalen en terug de klif opklimmen richting Cala Varques.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/mallorca/ruta-11-s-estany-d-en-mas?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="S'Estany d'en Mas"></iframe>
 
 ##### Cova des Pont / Pont natural d'Es Caló Blanc
 

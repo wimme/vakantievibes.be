@@ -8,9 +8,9 @@ keywords: [garachico,icod,drakenbloedboom,orotava,tenerife,overwinteren,zonvakan
 gallery:
   - images:
     - src: https://img.vakantievibes.be/IMG_6201.HEIC.jpg
-      caption: "Garachico"
+      caption: "Castillo de San Miguel - Garachico"
     - src: https://img.vakantievibes.be/IMG_6216.HEIC.jpg
-      caption: "Garachico"
+      caption: "Plaza de la Libertad - Garachico"
     - src: https://img.vakantievibes.be/IMG_6208.HEIC.jpg
       caption: "Garachico"
   - images:
@@ -32,28 +32,65 @@ gallery:
       caption: "Los Realejos"
   - images:
     - src: https://img.vakantievibes.be/IMG_1695.JPG
-      caption: "La Orotava"
+      caption: "Iglesia de San Agustín - La Orotava"
     - src: https://img.vakantievibes.be/IMG_1704.JPG
-      caption: "La Orotava"
+      caption: "Jardines Victoria - La Orotava"
     - src: https://img.vakantievibes.be/IMG_1743.JPG
-      caption: "La Orotava"
+      caption: "Jardines Victoria - La Orotava"
   - images:
     - src: https://img.vakantievibes.be/IMG_1839.JPG
-      caption: "La Orotava"
+      caption: "Iglesia de La Concepción - La Orotava"
     - src: https://img.vakantievibes.be/IMG_1820.JPG
       caption: "La Orotava"
+map:
+  markers:
+    - title: Garachico
+      position: [28.3732193, -16.7641932]
+      anchor: '#garachico'
+      image: https://img.vakantievibes.be/IMG_6208.HEIC.jpg
+    - title: Icod de los Vinos
+      position: [28.367083, -16.722138]
+      anchor: '#icod-de-los-vinos'
+    - title: Rambla de Castro
+      position: [28.402980, -16.575698]
+      anchor: '#rambla-de-castro'
+      image: https://img.vakantievibes.be/IMG_1653.JPG
+    - title: Mirador de El Lance
+      position: [28.384877, -16.603497]
+      anchor: '#mirador-de-el-lance'
+    - title: Area Recreativa de Chanajiga
+      position: [28.343946, -16.584593]
+      anchor: '#area-recreativa-de-chanajiga'
+    - title: Puerto de la Cruz
+      position: [28.417226, -16.547801]
+      anchor: '#puerto-de-la-cruz'
+    - title: Lago Martiánez
+      position: [28.418755, -16.544039]
+      anchor: '#lago-martiánez'
+    - title: Loro Parque
+      position: [28.409192, -16.566356]
+      anchor: '#loro-parque'
+    - title: La Orotava
+      position: [28.389326, -16.524902]
+      anchor: '#la-orotava'
 ---
 
 In tegenstelling tot het droge zuiden ontdek je in het noorden het Tenerife van de eeuwige lente.
 
 ### Garachico
 
-Is een klein historisch havenstadje gelegen tegen de >500 meter hoge kliffen. In 1706 was het stadje deels verdwenen door een vulkaanuitbarsting (Montaña Negra), maar werd opnieuw opgebouwd. Langs de kust is er veel parking beschikbaar. Voor de wandelaars: (PR-TF 43) beklim de kliffen en geniet van een prachtig uitzicht, stap hiervoor vanaf de “Plaza de Libertad” naar “Mirador de Peralza” en klim verder via Cam el Monte en C. el Volcán naar het oude wegje (dateert van de tijd van de ezels) dat zigzag verder naar boven gaat. Zo kan je wandelen naar het hoger gelegen dorpje “San Juan del Reparo” waar je in het "Mirador de Garachico" restaurant iets kan drinken en genieten van het uitzicht voor je de weg terug neemt.
+Is een klein historisch havenstadje gelegen tegen de >500 meter hoge kliffen. In 1706 was het stadje deels verdwenen door een vulkaanuitbarsting (Montaña Negra), maar werd opnieuw opgebouwd. Langs de kust is er veel parking beschikbaar.
+
+Het centrale plein, Plaza de la Libertad, is een perfecte plek om even te zitten en de omgeving in je op te nemen. Je kunt er prachtige koloniale gebouwen bewonderen, zoals het voormalige klooster dat nu als cultureel centrum dient. Langs de kust zijn er de natuurlijke zwembaden van El Caletón, ontstaan uit lavastromen, en het Castillo de San Miguel, een klein maar indrukwekkend fort dat vroeger bescherming bood tegen piraten.
 
 <div>
 {%- assign gallery = page.gallery[0] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+Voor de wandelaars: (PR-TF 43) beklim de kliffen en geniet van een prachtig uitzicht, stap hiervoor vanaf de “Plaza de Libertad” naar “Mirador de Peralza” en klim verder via Cam el Monte en C. el Volcán naar het oude wegje (dateert van de tijd van de ezels) dat zigzag verder naar boven gaat. Zo kan je wandelen naar het hoger gelegen dorpje “San Juan del Reparo” waar je in het “Mirador de Garachico” restaurant iets kan drinken en genieten van het uitzicht voor je de weg terug neemt.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/garachico-san-juan-del-reparo?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Garachico - San Juan del Reparo"></iframe>
 
 ### Icod de los Vinos
 
@@ -66,6 +103,8 @@ Bij de opkomst van toerisme in de jaren 1950 werd er in deze regio zwaar geïnve
 
 #### Los Realejos
 
+##### Rambla de Castro
+
 De hoge ruige rotskust en kloven van Los Realejos zijn voor een groot stuk beschermd natuurgebied. Vanaf Camino Burgado is een panoramisch wandelpad langs de kust dat gevolgd kan worden naar “Mirador San Pedro” (5 km). Onderweg kom je er het oude pomphuis van Gordejuela tegen, waarin de allereerste stoommachine van Tenerife stond dat water op pompte om te gebruiken voor de vele bananenplantages, tegenwoordig een van de meest spectaculaire vervallen gebouwen op Tenerife.
 
 <div>
@@ -77,8 +116,15 @@ De hoge ruige rotskust en kloven van Los Realejos zijn voor een groot stuk besch
 {%- include gallery.html gallery=gallery -%}
 </div>
 
-Op de weg richting Icod el Alto zijn er twee panoramische uitzichten over de Orotavavallei: “Mirador del Lance” (hier staat een bronzen beeld van Benze, de laatste koning van de Guanchen, die zich van de rotsen gooide op het einde van de Spaanse verovering) en “Mirador de la Corona” (met een startzone voor paragliders).
-Tussen de bosrijke natuurgebieden is het recreatiegebied Chanajiga (Camino El Madroño) waaruit wandelpaden vertrekken (bijvoorbeeld naar Risco Miguel en Choza Enrique Talg, 2 km).
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/sendero-rambla-de-castro" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Rambla de Castro Trail"></iframe>
+
+##### Mirador de El Lance
+
+Op de weg richting Icod el Alto zijn er twee panoramische uitzichten over de Orotavavallei: “Mirador de El Lance” (hier staat een bronzen beeld van Benze, de laatste koning van de Guanchen, die zich van de rotsen gooide op het einde van de Spaanse verovering) en “Mirador de la Corona” (met een startzone voor paragliders).
+
+##### Area Recreativa de Chanajiga
+
+Tussen de bosrijke natuurgebieden is het recreatiegebied Chanajiga waaruit wandelpaden vertrekken (bijvoorbeeld naar Risco Miguel en Choza Enrique Talg, 2 km).
 
 #### Puerto de la Cruz
 
