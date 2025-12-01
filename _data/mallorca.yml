@@ -45,7 +45,7 @@ blocks:
     slides:
       - title: TUI fly
         image: https://ti.tradetracker.net/?c=19678&m=2161712&a=471594&r=&t=html
-        caption: Vluchten vanuit Brussel en Oostende.
+        caption: Rechtstreekse vluchten vanuit Brussel en Oostende.
         links:
           - title: TUI fly
             href: https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Fpalma-de-mallorca
@@ -57,14 +57,14 @@ blocks:
             href: https://click.transavia.com/tickets/?tt=27948_12_471594_&r=%2Fbestemmingen%2Fnl-be%2Fspanje%2Fmallorca
       - title: Vueling
         image: https://ti.tradetracker.net/?c=20107&m=1689165&a=471594&r=&t=html
-        caption: Goedkope vluchten vanuit Brussel.
+        caption: Goedkope vluchten vanuit Brussel (tussenstops mogelijk).
         links:
           - title: Vueling
-            href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-naar-palmademallorca
+            href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-vanaf-brussel-palmademallorca
   - title: Autoverhuur
     slides:
       - title: Sunnycars
         caption: Altijd all-in verzekerd met Nederlandstalige klantenservice. Je kan de auto ophalen op de luchthaven van Palma de Mallorca.
         links:
           - title: Sunnycars
-            href: https://www.sunnycars.be/huureenauto/?tt=21133_12_471594_&r=%2Fauto-huren%2Fmallorca%2F
+            href: https://huureenauto.sunnycars.be/c?c=21133&m=12&a=471594&r=&u=%2Fauto-huren%2Fmallorca%2F

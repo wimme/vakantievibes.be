@@ -1,0 +1,34 @@
+title: Tenerife info
+blocks:
+  - title: Waar?
+    caption: Tenerife is het grootste eiland van de Canarische eilanden, zowel qua oppervlakte als qua aantal bewoners. De Canarische eilanden zijn gelegen ter hoogte van het zuiden van Marokko maar behoren tot Spanje. Je kan er er met de euro betalen en je hoeft niks extra te betalen voor mobiel internet. Handig!
+  - title: Wanneer?
+    caption: Het hoogseizoen is de wintervakantie, verwacht dan ook hogere prijzen. Al kan het weer tijdens deze periode iets onstabieler zijn. De mooiste periode om Tenerife te bezoeken is tijdens het begin van de lente wanneer alles in bloei komt. Tijdens de zomer verblijven er ook Spanjaarden die de lenteachtige temperaturen van Tenerife opzoeken, daar het vasteland van Spanje dan heel warm kan zijn. Ook al is Tenerife relatief klein, toch zijn er 5 verschillende klimaatzones. Vanwege het hooggebergte en bijhorend regenschaduw-effect valt de meeste neerslag in het noorden en is het zuiden droog. Het grootste deel van het jaar zijn lenteachtige temperaturen.
+  - title: Vluchten
+    caption: Vanuit Brussel zijn er dagelijks vluchten naar Tenerife. Een vlucht duurt ongeveer 4 uur.
+    slides:
+      - title: TUI fly
+        image: https://ti.tradetracker.net/?c=19678&m=2161712&a=471594&r=&t=html
+        caption: Rechtstreekse vluchten vanuit Brussel en Oostende.
+        links:
+          - title: TUI fly
+            href: https://tc.tradetracker.net/?c=19678&m=12&a=471594&r=&u=%2Fnl%2Fvliegtickets%2Fspanje%2Ftenerife
+      - title: Transavia
+        image: https://ti.tradetracker.net/?c=27948&m=2124747&a=471594&r=&t=html
+        caption: Vlieg voordelig vanuit Brussel.
+        links:
+          - title: Transavia
+            href: https://click.transavia.com/tickets/?tt=27948_12_471594_&r=%2Fbestemmingen%2Fnl-be%2Fspanje%2Ftenerife
+      - title: Vueling
+        image: https://ti.tradetracker.net/?c=20107&m=1689165&a=471594&r=&t=html
+        caption: Goedkope vluchten vanuit Brussel (tussenstops mogelijk).
+        links:
+          - title: Vueling
+            href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-vanaf-brussel-tenerife
+  - title: Autoverhuur
+    slides:
+      - title: Sunnycars
+        caption: Altijd all-in verzekerd met Nederlandstalige klantenservice. Je kan de auto ophalen op de luchthaven van Palma de Mallorca.
+        links:
+          - title: Sunnycars
+            href: https://huureenauto.sunnycars.be/c?c=21133&m=12&a=471594&r=&u=%2Fauto-huren%2Ftenerife%2F

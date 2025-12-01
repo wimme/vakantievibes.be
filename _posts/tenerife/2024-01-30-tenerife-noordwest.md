@@ -4,6 +4,7 @@ description: "Verken het adembenemende noordwesten van Tenerife: ontdek het Teno
 category: "Spanje/Canarische Eilanden/Tenerife"
 tags: Vliegvakantie Roadtrip
 image: https://img.vakantievibes.be/IMG_6289.HEIC.jpg
+footer: tenerife
 keywords: [teno,massief,masca,erjos,los,gigantes,tenerife,overwinteren,zonvakantie,bezienswaardigheden,wattedoen,wandelen]
 gallery:
   - images:
@@ -103,21 +104,3 @@ Voor wandelliefhebbers is Erjos een aanrader. Geniet van de mooie wandelroutes t
 </div>
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/erjos-pista-monte-del-agua-fuente-de-los-loros?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Erjos - Pista Monte del Agua"></iframe>
-
-> ### Tenerife Info
->
-> #### Waar?
->
-> Tenerife is het grootste eiland van de Canarische eilanden, zowel qua oppervlakte als qua aantal bewoners. De Canarische eilanden zijn gelegen ter hoogte van het zuiden van Marokko maar behoren tot Spanje. Je kan er er met de euro betalen en je hoeft niks extra te betalen voor mobiel internet. Handig!
->
-> #### Wanneer?
->
-> Het hoogseizoen is de wintervakantie, verwacht dan ook hogere prijzen. Al kan het weer tijdens deze periode iets onstabieler zijn. De mooiste periode om Tenerife te bezoeken is tijdens het begin van de lente wanneer alles in bloei komt. Tijdens de zomer verblijven er ook Spanjaarden die de lenteachtige temperaturen van Tenerife opzoeken, daar het vasteland van Spanje dan heel warm kan zijn. Ook al is Tenerife relatief klein, toch zijn er 5 verschillende klimaatzones. Vanwege het hooggebergte en bijhorend regenschaduw-effect valt de meeste neerslag in het noorden en is het zuiden droog. Het grootste deel van het jaar zijn lenteachtige temperaturen.
->
-> #### Hoe?
->
-> Vanuit Brussel is er zo goed als elke dag een rechtstreekse vlucht naar Tenerife. Ook vanuit de regionale luchthavens van Oostende, Deurne en Luik vliegt [TUI fly](https://www.tuifly.be) rechtstreeks naar Tenerife. Een vlucht duurt ongeveer 4 uur.
->
-> #### Waar verblijven?
->
-> De meeste toeristen verblijven in het zuiden. Populaire plaatsen zijn: Playa de las Américas (druk maar alles dichtbij), Costa Adeje (onze voorkeur), Golf del Sur en Playa Paraíso. Deze zijn eenvoudig te boeken via touroperators zoals [TUI](https://www.tui.be) en [Sunweb](https://www.sunweb.be). Verblijf je in Playa de las Américas of Costa Adeje dan is er in de buurt een groot aanbod aan restaurantjes, een duur all-in of volpension is hier dus zeker niet nodig. Via privé verhuur is er ook veel aanbod in Palm Mar en Costa del Silencio.
