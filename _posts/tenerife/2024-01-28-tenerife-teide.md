@@ -46,12 +46,15 @@ map:
       anchor: '#montaña-chinyero'
 ---
 
-Dit door de UNESCO beschermde natuurgebied ligt rond de Teide (3.718 m), de hoogste berg van Spanje en tevens de hoogste vulkaan van de Atlantische oceaan, alsook de 3de hoogste vulkaan ter wereld gemeten vanaf z’n basis in de oceaan (7.500 m). De Teide en Pico Viejo (3.135 m), de tweede hoogste vulkaan van de Canarische eilanden, zijn de enige twee pieken op de Canarische eilanden die boven de 3.000 m gaan. Met 4 miljoen bezoekers per jaar is het het meest bezochte natuurgebied van Europa.
+Dit door de UNESCO beschermde natuurgebied ligt rond de Teide (3.718 m), de hoogste berg van Spanje en tevens de hoogste vulkaan van de Atlantische oceaan, alsook de 3de hoogste vulkaan ter wereld gemeten vanaf z’n basis in de oceaan (7.500 m). De Teide en Pico Viejo (3.135 m), de tweede hoogste vulkaan van de Canarische eilanden, zijn de enige twee pieken op de Canarische eilanden die boven de 3.000 m gaan. Met 4 miljoen bezoekers per jaar is het het meest bezochte natuurgebied van Europa. Elk wandelpad (sendero) in dit gebied heeft een eigen nummer ([overzichtskaart](/sites/cms.vakantievibes.be/files/red-senderos-teide-mapa-oficial_tcm30-68655.pdf)).
 
 ### El Teide
 
-Er is een kabelbaan om de Teide te bezoeken. Voor de veiligheid is deze gesloten wanneer het waait. De kabelbaan gaat niet helemaal naar de top, maar stopt op 3.555 meter hoogte, ook wel bekend als “La Rambleta”. In plaats van de kabelbaan te nemen kan je ook te voet naar La Rambleta via Montaña Blanca, door de ijle lucht is deze beklimming niet te onderschatten (8 km - 5h30 enkel). Om verder te stappen van La Rambleta naar de top van de Teide heb je een vergunning nodig, deze kan je aanvragen via [reservasparquesnacionales.es](https://www.reservasparquesnacionales.es/).
-Vanuit La Rambleta kan je ook verder stappen naar het uitzichtpunt Pico Viejo en uitzichtpunt La Fortaleza. Elk wandelpad (sendero) heeft een eigen nummer ([overzichtskaart](/sites/cms.vakantievibes.be/files/red-senderos-teide-mapa-oficial_tcm30-68655.pdf)).
+Er is een kabelbaan om de Teide te bezoeken. Voor de veiligheid is deze gesloten wanneer het waait. De kabelbaan gaat niet helemaal naar de top, maar stopt op 3.555 meter hoogte, ook wel bekend als “La Rambleta”, 163 meter onder de top van de vulkaan. Opgelet: in een 8 tal minuten stijg je meer dan 1000 meter, wat je hoogteziek kan maken (voorzie enkele zakjes voor je gezin mocht iemand misselijk worden).
+
+In plaats van de kabelbaan te nemen kan je ook te voet naar La Rambleta via Montaña Blanca, door de ijle lucht is deze beklimming niet te onderschatten (8 km - 5h30 enkel). Om verder te stappen van La Rambleta naar de top van de Teide heb je een vergunning nodig, deze kan je aanvragen via [reservasparquesnacionales.es](https://www.reservasparquesnacionales.es/). Vanuit La Rambleta kan je ook verder stappen naar het uitzichtpunt Pico Viejo en uitzichtpunt La Fortaleza.
+
+In plaats van de Teide zelf te beklimmen kiezen hikers vaak voor [Alto de Guajara](#alto-de-guajara) waarvan je een prachtig uitzicht hebt op de Teide en de ganse caldera.
 
 ### Roques de García
 
@@ -76,7 +79,7 @@ Voor de langere wandelingen is het handig om te overnachten in het enige hotel i
 
 ### La Caldera de Las Cañadas
 
-Voor de Teide was er eerst de Las Cañadas vulkaan, bij een grote explosie is deze geïmplodeerd waardoor een grote krater ontstond. Vanuit deze krater, langs de noordzijde, is daarna de Teide ontstaan. De zuidkant van de krater vormt een duidelijk zichtbare caldeira wand.
+Voor de Teide was er eerst de Las Cañadas vulkaan, bij een grote explosie is deze geïmplodeerd waardoor een grote krater ontstond. Vanuit deze krater, langs de noordzijde, is daarna de Teide ontstaan. De zuidkant van de krater vormt een duidelijk zichtbare caldera wand.
 
 <div>
 {%- assign gallery = page.gallery[2] -%}
@@ -85,7 +88,7 @@ Voor de Teide was er eerst de Las Cañadas vulkaan, bij een grote explosie is de
 
 #### Alto de Guajara
 
-Vanuit Parador de Las Cañadas del Teide vertrekt de wandelroute (11 km - 5h - senderos 4, 5 en 15) door het hooggebergte naar Alto de Guajara, een top die met 2.715 meter het hoogste punt is van de wand van de caldeira en de derde hoogste top is van het nationaal park. Vanaf hier heb je het beste uitzicht op de Teide, Pico Viejo en Montaña Blanca, en een weids vergezicht over de Caldera de Las Cañadas.
+Vanuit Parador de Las Cañadas del Teide vertrekt de wandelroute (11 km - 5h - senderos 4, 5 en 15) door het hooggebergte naar Alto de Guajara, een top die met 2.715 meter het hoogste punt is van de wand van de caldera en de derde hoogste top is van het nationaal park. Vanaf hier heb je het beste uitzicht op de Teide, Pico Viejo en Montaña Blanca, en een weids vergezicht over de Caldera de Las Cañadas.
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/monte-guajara?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Mount Guajara"></iframe>
 
