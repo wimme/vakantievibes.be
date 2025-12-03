@@ -21,6 +21,19 @@ gallery:
       caption: "Kinderdijk"
     - src: https://img.vakantievibes.be/IMG_20190502_172831.JPG
       caption: "Kinderdijk"
+map:
+  markers:
+    - title: Dordrecht
+      position: [51.813849, 4.664120]
+      image: https://img.vakantievibes.be/IMG_20190502_184537.JPG
+    - title: Nationaal Park De Biesbosch
+      position: [51.807941, 4.763303]
+      anchor: '#nationaal-park-de-biesbosch'
+      image: https://img.vakantievibes.be/IMG_20190501_140654.JPG
+    - title: Kinderdijk
+      position: [51.887699, 4.637850]
+      anchor: '#kinderdijk'
+      image: https://img.vakantievibes.be/IMG_20190502_172451.JPG
 ---
 
 ## Verborgen Schatten van Nederland: Ontdek Dordrecht
@@ -29,7 +42,7 @@ Welkom in Dordrecht, een historische stad in Nederland die je betovert met haar 
 
 ### De binnenstad
 
-Wandel door de kronkelende straatjes van de binnenstad en bewonder de prachtige oude gebouwen die de stad sieren, zoals in de Hofstraat en langs de waterkanalen. Dordrecht heeft indrukwekkende Grote Kerk, die dateert uit de 14e eeuw. Je kan ook een wandelroute volgen langs Dordrechts leukste winkels.
+Wandel door de kronkelende straatjes van de binnenstad en bewonder de prachtige oude gebouwen die de stad sieren, zoals in de Hofstraat en langs de waterkanalen. Dordrecht heeft een indrukwekkende Grote Kerk, die dateert uit de 14e eeuw. Je kan ook een wandelroute volgen langs Dordrechts leukste winkels en de Groenmarkt met het stadhuis.
 
 <div>
 {%- assign gallery = page.gallery[0] -%}
