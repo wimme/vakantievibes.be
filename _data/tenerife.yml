@@ -25,6 +25,32 @@ blocks:
         links:
           - title: Vueling
             href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-vanaf-brussel-tenerife
+  - title: Touroperators
+    slides:
+      - title: TUI
+        image: https://analytics.tui.be/c?c=20021&m=2161712&a=471594&r=&t=html
+        caption: Grootste aanbod aan hotels en resorts op Tenerife, vaak inclusief transfers van/naar de luchthaven.
+        links:
+          - title: TUI
+            href: https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife
+      - title: Corendon
+        image: https://referral.corendon.be/c?c=38103&m=2124747&a=471594&r=&t=html
+        caption: All-in vakanties naar Tenerife.
+        links:
+          - title: Corendon
+            href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife
+      - title: Sunweb
+        image: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_1689165_471594_&r=&t=html
+        caption: Goede prijzen en flexibele opties.
+        links:
+          - title: Sunweb
+            href: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife
+      - title: Eliza was here
+        image: https://ti.tradetracker.net/?c=1327&m=2132210&a=471594&r=&t=html
+        caption: Kleinschalige accommodaties met veel charme. Altijd inclusief huurauto.
+        links:
+          - title: Eliza was here
+            href: https://www.elizawashere.be/reizen?tt=1327_12_471594_&r=%2Fspanje%2Ftenerife
   - title: Autoverhuur
     slides:
       - title: Sunnycars
