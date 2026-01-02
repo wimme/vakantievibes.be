@@ -19,28 +19,22 @@ blocks:
         links:
           - title: Transavia
             href: https://click.transavia.com/tickets/?tt=27948_12_471594_&r=%2Fbestemmingen%2Fnl-be%2Fspanje%2Ftenerife
-      - title: Vueling
-        image: https://ti.tradetracker.net/?c=20107&m=1689165&a=471594&r=&t=html
-        caption: Goedkope vluchten vanuit Brussel (tussenstops mogelijk).
-        links:
-          - title: Vueling
-            href: https://tc.tradetracker.net/?c=20107&m=12&a=471594&r=&u=%2Fnl%2Fvluchten-vanaf-brussel-tenerife
   - title: Touroperators
     slides:
       - title: TUI
-        image: https://analytics.tui.be/c?c=20021&m=2161712&a=471594&r=&t=html
+        image: https://analytics.tui.be/i?c=20021&m=2141770&a=471594&r=&t=html
         caption: Grootste aanbod aan hotels en resorts op Tenerife, vaak inclusief transfers van/naar de luchthaven.
         links:
           - title: TUI
             href: https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife
       - title: Corendon
-        image: https://referral.corendon.be/c?c=38103&m=2124747&a=471594&r=&t=html
+        image: https://referral.corendon.be/i?c=38103&m=2323763&a=471594&r=&t=html
         caption: All-in vakanties naar Tenerife.
         links:
           - title: Corendon
             href: https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife
       - title: Sunweb
-        image: https://www.sunweb.be/nl/vakantie/reizen?tt=1393_1689165_471594_&r=&t=html
+        image: https://ti.tradetracker.net/?c=1393&m=2500796&a=471594&r=&t=html
         caption: Goede prijzen en flexibele opties.
         links:
           - title: Sunweb
