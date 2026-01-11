@@ -43,6 +43,7 @@ map:
   markers:
     - title: Pairi Daiza
       position: [50.584722, 3.887222]
+      icon: zoo
       image: https://img.vakantievibes.be/01.jpg
 ---
 

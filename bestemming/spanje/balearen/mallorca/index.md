@@ -4,6 +4,10 @@ category_name: Spanje/Balearen/Mallorca
 permalink: /bestemming/spanje/balearen/mallorca/
 image: https://img.vakantievibes.be/IMG_8134.HEIC.jpg
 keywords: [mallorca,zonvakantie,bezienswaardigheden,wattedoen,wandelen]
+map:
+  markers:
+    - title: Mallorca
+      position: [39.6556325, 3.0322843]
 ---
 
 Mallorca, het grootste eiland van de Balearen, heeft voor ieder wat wils. Van adembenemende stranden tot schilderachtige dorpjes en historische bezienswaardigheden, Mallorca heeft het allemaal.

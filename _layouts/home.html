@@ -53,7 +53,7 @@ layout: base
     <div class="page-section hentry clear">
       <h3>Onze bestemmingen op de kaart</h3>
       <div class="gallery">
-        {%- include map.html id='map-home' markers=site.data.all_markers -%}
+        {%- include map.html id='map-home' layers=site.data.map_layers -%}
       </div>
     </div>
   {%- endif -%}

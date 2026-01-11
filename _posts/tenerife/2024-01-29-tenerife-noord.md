@@ -48,32 +48,41 @@ map:
     - title: Garachico
       position: [28.3732193, -16.7641932]
       anchor: '#garachico'
+      icon: town
       image: https://img.vakantievibes.be/IMG_6208.HEIC.jpg
     - title: Icod de los Vinos
       position: [28.367083, -16.722138]
       anchor: '#icod-de-los-vinos'
+      icon: town
     - title: Rambla de Castro
       position: [28.402980, -16.575698]
       anchor: '#rambla-de-castro'
+      icon: pedestrian
       image: https://img.vakantievibes.be/IMG_1653.JPG
     - title: Mirador de El Lance
       position: [28.384877, -16.603497]
       anchor: '#mirador-de-el-lance'
+      icon: viewpoint
     - title: Area Recreativa de Chanajiga
       position: [28.343946, -16.584593]
       anchor: '#area-recreativa-de-chanajiga'
+      icon: pedestrian
     - title: Puerto de la Cruz
       position: [28.417226, -16.547801]
       anchor: '#puerto-de-la-cruz'
+      icon: village
     - title: Lago Martiánez
       position: [28.418755, -16.544039]
       anchor: '#lago-martiánez'
+      icon: swimming
     - title: Loro Parque
       position: [28.409192, -16.566356]
       anchor: '#loro-parque'
+      icon: zoo
     - title: La Orotava
       position: [28.389326, -16.524902]
       anchor: '#la-orotava'
+      icon: town
 ---
 
 In tegenstelling tot het droge zuiden ontdek je in het noorden het Tenerife van de eeuwige lente.

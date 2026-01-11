@@ -25,26 +25,37 @@ map:
     - title: El Teide
       position: [28.272251, -16.642515]
       anchor: '#el-teide'
+      icon: volcano
       image: https://img.vakantievibes.be/IMG_6338.HEIC.jpg
     - title: Roques de García
       position: [28.224290, -16.631286]
       anchor: '#roques-de-garcía'
+      icon: monument
       image: https://img.vakantievibes.be/IMG_6388.HEIC.jpg
     - title: Parador de Las Cañadas del Teide
       position: [28.224378, -16.627262]
+      icon: lodging
       anchor: '#parador-de-las-cañadas-del-teide'
     - title: Alto de Guajara
       position: [28.216976, -16.611878]
       anchor: '#alto-de-guajara'
+      icon: mountain
     - title: Sámara
       position: [28.266670, -16.726003]
       anchor: '#sámara'
+      icon: pedestrian
+    - title: Mirador de Chipeque
+      position: [28.3739969, -16.463871]
+      anchor: '#mirador-de-chipeque'
+      icon: viewpoint
     - title: Chavao
       position: [28.212816, -16.681177]
       anchor: '#chavao'
+      icon: viewpoint
     - title: Montaña Chinyero
       position: [28.294618, -16.756405]
       anchor: '#montaña-chinyero'
+      icon: pedestrian
 ---
 
 Dit door de UNESCO beschermde natuurgebied ligt rond de Teide (3.718 m), de hoogste berg van Spanje en tevens de hoogste vulkaan van de Atlantische oceaan, alsook de 3de hoogste vulkaan ter wereld gemeten vanaf z’n basis in de oceaan (7.500 m). De Teide en Pico Viejo (3.135 m), de tweede hoogste vulkaan van de Canarische eilanden, zijn de enige twee pieken op de Canarische eilanden die boven de 3.000 m gaan. Met 4 miljoen bezoekers per jaar is het het meest bezochte natuurgebied van Europa. Elk wandelpad (sendero) in dit gebied heeft een eigen nummer ([overzichtskaart](/sites/cms.vakantievibes.be/files/red-senderos-teide-mapa-oficial_tcm30-68655.pdf)).
@@ -98,6 +109,10 @@ Vanuit Parador de Las Cañadas del Teide vertrekt de wandelroute (11 km - 5h - s
 Vanuit Mirador de Sámara kan je een rondwandeling (5,1 km - 2h45 - sendero 13) maken. Aan het begin van de route kun je de klim ondernemen naar de top van de vulkaan van Sámara, met weidse en spectaculaire uitzichten, niet alleen over de Teide en de Pico Viejo, maar ook over diverse andere kegelvulkanen. De hele wandeling gaat over donker gekleurde pyroklasten en kleine niveauverschillen op het pad zijn gemakkelijk te overwinnen.
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/samara--2?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Samara"></iframe>
+
+#### Mirador de Chipeque
+
+Dit is een populair uitzichtspunt over de Teide en de ganse Orotavavallei. Bij zonsondergang kan het er zeer druk zijn. Maar langs de weg (TF-24) zijn er nog gelijkaardige uitzichtpunten waar je helemaal alleen bent. Ook de moeite bij zonsopgang. Kom een uur op voorhand om vlot een parkeerplaats te vinden en om volop van het uitzicht te genieten.
 
 #### Chavao
 

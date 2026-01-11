@@ -25,14 +25,17 @@ map:
   markers:
     - title: Dordrecht
       position: [51.813849, 4.664120]
+      icon: city
       image: https://img.vakantievibes.be/IMG_20190502_184537.JPG
     - title: Nationaal Park De Biesbosch
       position: [51.807941, 4.763303]
       anchor: '#nationaal-park-de-biesbosch'
+      icon: tree
       image: https://img.vakantievibes.be/IMG_20190501_140654.JPG
     - title: Kinderdijk
       position: [51.887699, 4.637850]
       anchor: '#kinderdijk'
+      icon: windmill
       image: https://img.vakantievibes.be/IMG_20190502_172451.JPG
 ---
 

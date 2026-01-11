@@ -61,50 +61,63 @@ map:
     - title: La Caleta
       position: [28.100246, -16.755426]
       anchor: '#la-caleta'
+      icon: town
       image: https://img.vakantievibes.be/IMG_5589.HEIC.jpg
     - title: Costa Adeje
       position: [28.080399, -16.733644]
       anchor: '#costa-adeje'
+      icon: town
       image: https://img.vakantievibes.be/IMG_0571.HEIC.jpg
     - title: El Duque
       position: [28.0909827, -16.7393117]
       anchor: '#el-duque'
+      icon: town
       image: https://img.vakantievibes.be/IMG_0979.JPG
     - title: Siam Park
       position: [28.0718275, -16.7266637]
       anchor: '#siam-park'
+      icon: amusement_park
     - title: Aqualand
       position: [28.0802824, -16.7282189]
       anchor: '#aqualand'
+      icon: swimming
     - title: Barranco del Infierno
       position: [28.126292, -16.723750]
       anchor: '#barranco-del-infierno'
+      icon: pedestrian
     - title: Playa de las Américas
       position: [28.055078, -16.731666]
       anchor: '#playa-de-las-américas'
+      icon: town
       image: https://img.vakantievibes.be/IMG_0678%20-%20Edit.jpg
     - title: Los Cristianos
       position: [28.050940, -16.718598]
       anchor: '#los-cristianos'
+      icon: village
       image: https://img.vakantievibes.be/IMG_1065.JPG
     - title: Costa del Silencio
       position: [28.005773, -16.645662]
       anchor: '#costa-del-silencio'
+      icon: town
     - title: Los Abrigos
       position: [28.028940, -16.593397]
       anchor: '#los-abrigos'
+      icon: town
       image: https://img.vakantievibes.be/IMG_6177.HEIC.jpg
     - title: El Médano
       position: [28.043368, -16.540051]
       anchor: '#el-médano'
+      icon: village
       image: https://img.vakantievibes.be/IMG_1323.JPG
     - title: La Montaña Roja
       position: [28.027116, -16.548951]
       anchor: '#la-montaña-roja'
+      icon: mountain
       image: https://img.vakantievibes.be/IMG_1240.JPG
     - title: Playa Paraíso
       position: [28.119959, -16.778500]
       anchor: '#playa-paraíso'
+      icon: town
       image: https://img.vakantievibes.be/IMG_6132.HEIC.jpg
 ---
 

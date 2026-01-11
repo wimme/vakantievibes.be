@@ -64,58 +64,73 @@ map:
     - title: Artà
       position: [39.6954859, 3.3524712]
       anchor: '#artà'
+      icon: village
       image: https://img.vakantievibes.be/IMG_8205.HEIC.jpg
     - title: Cuevas d'Artà
       position: [39.6561, 3.4508]
       anchor: '#cuevas-dartà'
+      icon: monument
     - title: Capdepera
       position: [39.7042258, 3.4326377]
       anchor: '#capdepera'
+      icon: town
     - title: Son Servera
       position: [39.620833, 3.36]
       anchor: '#son-servera'
+      icon: town
     - title: Sa Punta de n'Amer
       position: [39.58, 3.396111]
       anchor: '#sa-punta-de-namer'
+      icon: castle
     - title: Porto Cristo
       position: [39.5413434, 3.3352406]
       anchor: '#porto-cristo'
+      icon: village
       image: https://img.vakantievibes.be/IMG_8261.HEIC.jpg
     - title: Cala Romantica
       position: [39.5166296, 3.3097726]
       anchor: '#cala-romantica-sestany-den-mas'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8028.HEIC.jpg
     - title: Cova des Pont
       position: [39.500184, 3.299906]
       anchor: '#cova-des-pont--pont-natural-des-caló-blanc'
+      icon: monument
       image: https://img.vakantievibes.be/IMG_8374.HEIC.jpg
     - title: Cala Blanc
       position: [39.5004952, 3.2989162]
       anchor: '#cala-blanc'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8381.HEIC.jpg
     - title: Cala Varques
       position: [39.5001511, 3.2957136]
       anchor: '#cala-varques'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8383.HEIC.jpg
     - title: Cala Mondragó
       position: [39.352167, 3.1882154]
       anchor: '#cala-mondragó--caló-de-sa-font-de-nalis'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8110.HEIC.jpg
     - title: S'Amarador
       position: [39.3497837, 3.1853886]
       anchor: '#samarador'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8140.HEIC.jpg
     - title: Caló des Borgit
       position: [39.352578, 3.1928739]
       anchor: '#caló-des-borgit'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_8171.HEIC.jpg
     - title: Es Pontàs
       position: [39.3256425, 3.1443818]
       anchor: '#es-pontàs'
+      icon: monument
       image: https://img.vakantievibes.be/IMG_8097.HEIC.jpg
     - title: Caló des Moro
       position: [39.3137309, 3.1215462]
       anchor: '#caló-des-moro'
+      icon: beach
 ---
 
 Verken de betoverende wereld van Oost-Mallorca, waar cultuur en kust in harmonie samenkomen. Ontdek historische schatten, geniet van culinaire hoogstandjes en laat je meevoeren door de mediterrane magie van deze oostelijke regio.

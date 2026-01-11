@@ -49,10 +49,12 @@ map:
   markers:
     - title: Beekse Bergen
       position: [51.523490, 5.116984]
+      icon: zoo
       image: https://img.vakantievibes.be/IMG_9885.HEIC.jpg
     - title: Eindhoven Zoo
       position: [51.453220, 5.581952]
       anchor: '#bonus-eindhoven-zoo'
+      icon: zoo
       image: https://img.vakantievibes.be/IMG_0111.HEIC.jpg
 ---
 

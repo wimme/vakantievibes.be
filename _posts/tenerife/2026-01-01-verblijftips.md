@@ -43,62 +43,62 @@ map:
     - title: H10 Costa Adeje Palace
       position: [28.0971615, -16.7494497]
       anchor: '#h10-costa-adeje-palace'
-      icon: hotel
+      icon: lodging
     - title: Lagos de Fañabé Beach Resort
       position: [28.0867155, -16.7359918]
       anchor: '#lagos-de-fañabé-beach-resort'
-      icon: hotel
+      icon: lodging
     - title: GF Isabel
       position: [28.0913712, -16.7342724]
       anchor: '#gf-isabel'
-      icon: hotel
+      icon: lodging
       image: https://img.vakantievibes.be/IMG_5561.HEIC.jpg
     - title: Tagoro Family & Fun
       position: [28.0877481,-16.7266533]
       anchor: '#tagoro-family--fun'
-      icon: hotel
+      icon: lodging
     - title: Guayarmina Princess
       position: [28.0850521, -16.7346775]
       anchor: '#guayarmina-princess'
-      icon: hotel
+      icon: lodging
       image: https://img.vakantievibes.be/IMG_20191219_150600.JPG
     - title: Tivoli La Caleta
       position: [28.0960279, -16.7482295]
       anchor: '#tivoli-la-caleta'
-      icon: hotel
+      icon: lodging
     - title: GF Victoria
       position: [28.0917612, -16.7389422]
       anchor: '#gf-victoria'
-      icon: hotel
+      icon: lodging
     - title: H10 Conquistador
       position: [28.0576023, -16.7349138]
       anchor: '#h10-conquistador'
-      icon: hotel
+      icon: lodging
       image: https://img.vakantievibes.be/IMG_0611.HEIC.jpg
     - title: Los Cardones Boutique Village
       position: [28.0599255, -16.7327559]
       anchor: '#los-cardones-boutique-village'
-      icon: hotel
+      icon: lodging
     - title: Atlantic El Tope
       position: [28.4146057, -16.5438403]
       anchor: '#atlantic-el-tope'
-      icon: hotel
+      icon: lodging
     - title: Riu Garoe
       position: [28.4127828, -16.5318941]
       anchor: '#riu-garoe'
-      icon: hotel
+      icon: lodging
     - title: Bahia Principe Fantasia
       position: [28.0268538, -16.6064147]
       anchor: '#bahia-principe-fantasia'
-      icon: hotel
+      icon: lodging
     - title: Landmar Costa Los Gigantes Family Resort
       position: [28.2341818, -16.8370302]
       anchor: '#landmar-costa-los-gigantes-family-resort'
-      icon: hotel
+      icon: lodging
     - title: Allegro Isora
       position: [28.2250358, -16.8375139]
       anchor: '#allegro-isora'
-      icon: hotel
+      icon: lodging
 ---
 
 ## Waar verblijven op Tenerife? Onze beste tips

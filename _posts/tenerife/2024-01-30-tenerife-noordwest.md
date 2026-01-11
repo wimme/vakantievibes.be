@@ -30,24 +30,30 @@ map:
     - title: Erjos
       position: [28.318918, -16.796801]
       anchor: '#erjos'
+      icon: town
       image: https://img.vakantievibes.be/IMG_1508.JPG
     - title: Masca
       position: [28.305304, -16.839962]
       anchor: '#masca'
+      icon: town
       image: https://img.vakantievibes.be/IMG_6289.HEIC.jpg
     - title: Mirador Altos de Baracán
       position: [28.327895, -16.856286]
       anchor: '#mirador-altos-de-baracán'
+      icon: viewpoint
     - title: De Masca kloof
       position: [28.301724, -16.840067]
       anchor: '#de-masca-kloof'
+      icon: climbing
     - title: Los Gigantes
       position: [28.240386, -16.837040]
       anchor: '#los-gigantes'
+      icon: viewpoint
       image: https://img.vakantievibes.be/IMG_1351.JPG
     - title: Playa de la Arena
       position: [28.229713, -16.840848]
       anchor: '#playa-de-la-arena'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_1421.JPG
 ---
 
