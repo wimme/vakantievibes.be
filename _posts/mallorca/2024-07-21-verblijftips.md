@@ -125,6 +125,7 @@ Dit luxe hotel ligt vlak aan zee, aan de wandelpromenade. Veel kamers hebben zee
 Boek dit hotel met vlucht via:
 
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Fviva-golf-hotel){:rel="nofollow"}
+{: .cta }
 
 #### Alua Boccaccio
 
@@ -139,6 +140,7 @@ Boek dit hotel met vlucht via:
 
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Falcudia%2Fhotel-roc-boccaccio){:rel="nofollow"}
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Falua-boccaccio){:rel="nofollow"}
+{: .cta }
 
 #### Familiehotels in Alcúdia
 
@@ -161,6 +163,7 @@ Boek dit hotel met vlucht via:
 * [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Fmallorca%2Fviva-eden-lago-01872){:rel="nofollow"}
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Falcudia%2Fviva-eden-lago){:rel="nofollow"}
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Fviva-eden-lago){:rel="nofollow"}
+{: .cta }
 
 ##### VIVA Sunrise
 
@@ -169,6 +172,7 @@ Op wandelafstand van het strand ligt dit familiehotel dat zich ook helemaal rich
 Boek dit hotel met vlucht via:
 
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Falcudia%2Fviva-sunrise){:rel="nofollow"}
+{: .cta }
 
 ### Oostkust van Mallorca
 
@@ -194,6 +198,7 @@ Boek dit hotel met vlucht via:
 * [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Fmallorca%2Fblau-punta-reina-family-resort-01935){:rel="nofollow"}
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Fcala-mandia%2Fhotel-blau-punta-reina-resort){:rel="nofollow"}
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Fporto-cristo%2Fblau-punta-reina-family-resort){:rel="nofollow"}
+{: .cta }
 
 #### Cala d'Or
 
@@ -206,6 +211,7 @@ Dit luxe hotel is gelegen in het hart van Cala d'Or, op loopafstand van diverse 
 Boek dit hotel met vlucht via:
 
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Fcala-dor%2Fhotel-melia-cala-dor){:rel="nofollow"}
+{: .cta }
 
 ### Westkust van Mallorca
 
@@ -222,6 +228,7 @@ Ligt direct aan de boulevard en vlak bij het pittoreske zandstrand van Port de S
 Boek dit hotel met vlucht via:
 
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Fport-de-soller%2Fhotel-fergus-style-soller-beach){:rel="nofollow"}
+{: .cta }
 
 #### Palma Nova
 
@@ -236,6 +243,7 @@ Boek dit hotel met vlucht via:
 * [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Fmallorca%2Fzafiro-palmanova-01947){:rel="nofollow"}
 * [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Fmallorca%2Fpalma-nova%2Fzafiro-palmanova-spa){:rel="nofollow"}
 * [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fbalearen%2Fmallorca%2Fpalma-nova%2Fzafiro-palmanova-spa){:rel="nofollow"}
+{: .cta }
 
 ### Autoverhuur
 

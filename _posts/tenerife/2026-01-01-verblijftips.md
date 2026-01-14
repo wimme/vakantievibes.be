@@ -134,6 +134,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fh10-costa-adeje-palace-02824){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Fhotel-h10-costa-adeje-palace){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fcosta-adeje%2Fh10-costa-adeje-palace){:rel="nofollow"}
+{: .cta }
 
 ##### Lagos de Fañabé Beach Resort
 
@@ -142,6 +143,7 @@ Een gezellig resort in Playa de Fañabé (Costa Adeje), op slechts enkele stappe
 Boek dit hotel met vlucht via:
 
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Flagos-de-fanabe-beach-resort){:rel="nofollow"}
+{: .cta }
 
 ##### GF Isabel
 
@@ -159,6 +161,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fgf-isabel-02844){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Fhotel-gf-isabel){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fcosta-adeje%2Fgf-isabel){:rel="nofollow"}
+{: .cta }
 
 ##### Tagoro Family & Fun
 
@@ -168,6 +171,7 @@ Boek dit hotel met vlucht via:
 
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Faparthotel-dream-villa-tagoro){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fcosta-adeje%2Ftagoro-family-fun-costa-adeje){:rel="nofollow"}
+{: .cta }
 
 #### Luxe hotels in Costa Adeje
 
@@ -187,6 +191,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fguayarmina-princess-02832){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Fhotel-guayarmina-princess-adults-only2){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fcosta-adeje%2Fguayarmina-princess){:rel="nofollow"}
+{: .cta }
 
 ##### Tivoli La Caleta
 
@@ -197,6 +202,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Ftivoli-la-caleta-tenerife-resort-02880){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fcosta-adeje%2Ftivoli-la-caleta){:rel="nofollow"}
 - [Corendon](https://www.corendon.be/spanje/canarische-eilanden/tenerife/la-caleta/tivoli-la-caleta-tenerife-resort){:rel="nofollow"}
+{: .cta }
 
 ##### GF Victoria
 
@@ -206,6 +212,7 @@ Boek dit hotel met vlucht via:
 
 - [Sunweb](https://www.sunweb.be/nl/vakantie/spanje/tenerife/costa-adeje/hotel-gf-victoria){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fcosta-adeje%2Fgf-victoria){:rel="nofollow"}
+{: .cta }
 
 ### Playa de las Américas
 
@@ -234,6 +241,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fh10-conquistador-02822){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fplaya-de-las-americas%2Fhotel-h10-conquistador){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fplaya-de-las-americas%2Fh10-conquistador){:rel="nofollow"}
+{: .cta }
 
 ##### Los Cardones Boutique Village
 
@@ -242,6 +250,7 @@ Een rustig en charmant bungalowcomplex in het hart van Playa de las Américas, o
 Boek dit hotel met vlucht via:
 
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fplaya-de-las-americas%2Fbungalows-los-cardones-boutique-logies-en-ontbijt){:rel="nofollow"}
+{: .cta }
 
 ### Puerto de la Cruz
 
@@ -267,6 +276,7 @@ Boek dit hotel met vlucht via:
 
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fatlantic-el-tope-02893){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fpuerto-de-la-cruz%2Fhotel-atlantic-el-tope){:rel="nofollow"}
+{: .cta }
 
 ##### Riu Garoe
 
@@ -275,6 +285,7 @@ Een rustig hotel ideaal voor koppels. Er is een gratis shuttleservice die je naa
 Boek dit hotel met vlucht via:
 
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Friu-garoe-02886){:rel="nofollow"}
+{: .cta }
 
 ### Golf del Sur
 
@@ -297,6 +308,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Fbahia-principe-fantasia-tenerife-02809){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fgolf-del-sur%2Fhotel-fantasia-bahia-principe-tenerife){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fgolf-del-sur%2Fbahia-principe-fantasia){:rel="nofollow"}
+{: .cta }
 
 ### Los Gigantes (Puerto de Santiago)
 
@@ -318,6 +330,7 @@ Boek dit hotel met vlucht via:
 - [TUI](https://analytics.tui.be/c?c=20021&m=12&a=471594&r=&u=%2Fnl%2Fhotel%2Fspanje%2Ftenerife%2Flandmar-costa-los-gigantes-family-resort-02875){:rel="nofollow"}
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fpuerto-santiago%2Flandmar-costa-los-gigantes){:rel="nofollow"}
 - [Corendon](https://referral.corendon.be/c?c=38103&m=12&a=471594&r=&u=%2Fspanje%2Fcanarische-eilanden%2Ftenerife%2Fpuerto-de-santiago%2Flandmar-costa-los-gigantes-family-resort){:rel="nofollow"}
+{: .cta }
 
 ##### Allegro Isora
 
@@ -326,6 +339,7 @@ Dit resort biedt ruime appartementen met woonkamer + kitchenette, balkon/terras 
 Boek dit hotel met vlucht via:
 
 - [Sunweb](https://www.sunweb.be/nl/vakantie/reizen?tt=1393_12_471594_&r=%2Fnl%2Fvakantie%2Fspanje%2Ftenerife%2Fplaya-de-la-arena%2Fhotel-allegro-isora){:rel="nofollow"}
+{: .cta }
 
 ### Belangrijke overwegingen
 

@@ -19,7 +19,7 @@ layout: base
 
   <div class="page-section hentry">
     <h3>Nieuwste inspiratie</h3>
-    <div class="news-feed carousel-container gallery">
+    <div class="news-feed carousel-container">
       <div class="carousel-track">
         {%- for post in site.posts limit: 5 -%}
           <div class="news-item carousel-slide " itemscope itemtype="http://schema.org/Article">
@@ -52,7 +52,7 @@ layout: base
   {%- if site.data.all_markers.size > 0 and site.wimme.mapbox.access_token -%}
     <div class="page-section hentry clear">
       <h3>Onze bestemmingen op de kaart</h3>
-      <div class="gallery">
+      <div>
         {%- include map.html id='map-home' layers=site.data.map_layers -%}
       </div>
     </div>
@@ -60,7 +60,7 @@ layout: base
 
   <div class="page-section hentry clear">
     <h3>Meer inspiratie</h3>
-    <div class="gallery">
+    <div>
       <ul class="news-feed tags">
         {%- assign tags = site.tags | sort -%}
         {%- for tag in tags -%}
