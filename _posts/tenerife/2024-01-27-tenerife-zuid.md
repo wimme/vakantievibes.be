@@ -63,6 +63,12 @@ map:
       anchor: '#la-caleta'
       icon: town
       image: https://img.vakantievibes.be/IMG_5589.HEIC.jpg
+    - title: Playa de la Enramada
+      position: [28.0980917, -16.7522277]
+      icon: beach
+    - title: Playa El Beril
+      position: [28.0932353, -16.7481657]
+      icon: beach
     - title: Costa Adeje
       position: [28.080399, -16.733644]
       anchor: '#costa-adeje'
@@ -73,6 +79,24 @@ map:
       anchor: '#el-duque'
       icon: town
       image: https://img.vakantievibes.be/IMG_0979.JPG
+    - title: Playa del Duque
+      position: [28.0914512, -16.744122]
+      icon: beach
+    - title: Playa de Fañabe
+      position: [28.0851698, -16.7370016]
+      anchor: '#costa-adeje'
+      icon: beach
+    - title: Playa de la Pinta
+      position: [28.0799611, -16.7354348]
+      anchor: '#costa-adeje'
+      icon: beach
+    - title: Playa de El Bobo
+      position: [28.0717523, -16.7329812]
+      anchor: '#costa-adeje'
+      icon: beach
+    - title: Playas de Troya
+      position: [28.0678015, -16.7329727]
+      icon: beach
     - title: Siam Park
       position: [28.0718275, -16.7266637]
       anchor: '#siam-park'
@@ -90,6 +114,18 @@ map:
       anchor: '#playa-de-las-américas'
       icon: town
       image: https://img.vakantievibes.be/IMG_0678%20-%20Edit.jpg
+    - title: Playa del Camisón
+      position: [28.053075, -16.7314229]
+      anchor: '#playa-de-las-américas'
+      icon: beach
+    - title: Playa de Las Vistas
+      position: [28.0525677, -16.7244411]
+      anchor: '#playa-de-las-américas'
+      icon: beach
+    - title: Montaña Chayofita
+      position: [28.0552219, -16.7206733]
+      anchor: '#los-cristianos'
+      icon: mountain
     - title: Los Cristianos
       position: [28.050940, -16.718598]
       anchor: '#los-cristianos'
@@ -99,16 +135,25 @@ map:
       position: [28.005773, -16.645662]
       anchor: '#costa-del-silencio'
       icon: town
+    - title: Montaña Amarilla
+      position: [28.0110586, -16.6361233]
+      anchor: '#costa-del-silencio'
+      icon: mountain
     - title: Los Abrigos
       position: [28.028940, -16.593397]
       anchor: '#los-abrigos'
       icon: town
       image: https://img.vakantievibes.be/IMG_6177.HEIC.jpg
     - title: El Médano
-      position: [28.043368, -16.540051]
+      position: [28.0447485, -16.5386796]
       anchor: '#el-médano'
       icon: village
       image: https://img.vakantievibes.be/IMG_1323.JPG
+    - title: Playa del Médano
+      position: [28.0401609, -16.5427988]
+      anchor: '#el-médano'
+      icon: beach
+      image: https://img.vakantievibes.be/IMG_1240.JPG
     - title: La Montaña Roja
       position: [28.027116, -16.548951]
       anchor: '#la-montaña-roja'
@@ -120,6 +165,8 @@ map:
       icon: town
       image: https://img.vakantievibes.be/IMG_6132.HEIC.jpg
 ---
+
+## Ontdek het zuiden van Tenerife: Zonovergoten avontuur
 
 Tegenwoordig één van de drukste toeristische gebieden van de Canarische Eilanden. Het klimaat is er subtropisch, met een gemiddelde temperatuur tussen 18 en 25 graden is het er ook in de winter zalig genieten van de zon.
 
@@ -187,7 +234,7 @@ Er is ook een stadspark “Parque Central de Arona” van 42.000 m² met een col
 
 ### Los Cristianos
 
-Van oorsprong een rustig vissersdorpje, waar het tegenwoordig een mengelmoes is van toeristen en lokale inwoners. Er zijn 2 mooie zandstranden. Er is een zeehaven waar je de boot kan nemen naar andere Canarische eilanden (zoals La Gomera) en naar het vasteland. Door toerisme blijft het dorp groeien, landinwaarts wordt het verder bebouwd met nieuwbouwprojecten.
+Van oorsprong een rustig vissersdorpje, waar het tegenwoordig een mengelmoes is van toeristen en lokale inwoners. Er zijn 2 mooie zandstranden. Er is een zeehaven waar je de boot kan nemen naar andere Canarische eilanden (zoals La Gomera) en naar het vasteland. Door toerisme blijft het dorp groeien, landinwaarts wordt het verder bebouwd met nieuwbouwprojecten. Middenin ligt de berg Montaña Chayofita, binnen enkele minuten sta je boven en heb je een prachtig uitzicht.
 
 <div>
 {%- assign gallery = page.gallery[5] -%}

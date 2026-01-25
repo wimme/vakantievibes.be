@@ -27,6 +27,9 @@ gallery:
       caption: "Playa de la Arena"
 map:
   markers:
+    - title: Punta de Teno
+      position: [28.3416249, -16.9209344]
+      icon: viewpoint
     - title: Erjos
       position: [28.318918, -16.796801]
       anchor: '#erjos'
@@ -45,10 +48,14 @@ map:
       position: [28.301724, -16.840067]
       anchor: '#de-masca-kloof'
       icon: climbing
-    - title: Los Gigantes
+    - title: Mirador Archipenque - Los Gigantes
       position: [28.240386, -16.837040]
       anchor: '#los-gigantes'
       icon: viewpoint
+    - title: Playa de Los Guíos - Los Gigantes
+      position: [28.2474829, -16.8405122]
+      anchor: '#los-gigantes'
+      icon: beach
       image: https://img.vakantievibes.be/IMG_1351.JPG
     - title: Playa de la Arena
       position: [28.229713, -16.840848]
@@ -56,6 +63,8 @@ map:
       icon: beach
       image: https://img.vakantievibes.be/IMG_1421.JPG
 ---
+
+## Ontdek het noordwesten van Tenerife: Adembenemende uitzichten
 
 In het noordwesten ligt het Teno massief, een vulkanisch gebergte en beschermd natuurgebied. Het is het meest afgelegen deel van Tenerife. Hier wordt nog aan klassieke landbouw gedaan en er zijn ook nog restanten terug te vinden van de Guanchen, de oorspronkelijke inwoners van de Canarische eilanden voor de Spanjaarden het veroverden.
 
@@ -84,12 +93,14 @@ Een mooie wandeling die over de Baracán top loopt en het dorpje Teno Alto:
 
 ### Los Gigantes
 
-Een van de meest bezochte locaties op Tenerife voor de 500-800 meter hoge rotsformaties “Acantilados de Los Gigantes”. Langs de weg ernaar toe is er een mooi uitzichtpunt over de stad en de rotsen. Er is een haven, volledig ommuurd om de golfslag van de zee tegen te gaan. Naast de haven is er een klein zandstrand met zwart zand. Er zijn kleine toeristenwinkels en restaurants.
+Een van de meest bezochte locaties op Tenerife voor de 500-800 meter hoge rotsformaties “Acantilados de Los Gigantes”. Langs de weg ernaar toe is er een mooi uitzichtpunt over de stad en de rotsen. Er is een haven, volledig ommuurd om de golfslag van de zee tegen te gaan. Naast de haven is er een klein zandstrand met zwart zand met een indrukwekkend uitzicht op de grote zwarte rotsen. Er zijn kleine toeristenwinkels en restaurants.
 
 <div>
 {%- assign gallery = page.gallery[2] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+Hier zijn ook "natuurlijke zwembaden" welke mooi zijn om vanop afstand te bekijken, maar ontzettend gevaarlijk zijn. Een plotse grote golf kan vanuit het niks opkomen en heeft al meerdere mensen verrast, waarbij deze zwaar tegen de rotsen belanden en het niet overleefd hebben of zware breuken en verwondingen oplopen. Zeer verraderlijk, volg telkens de signalisatie ter plaatse.
 
 #### Playa de la Arena
 

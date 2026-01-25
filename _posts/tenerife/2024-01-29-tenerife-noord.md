@@ -50,6 +50,11 @@ map:
       anchor: '#garachico'
       icon: town
       image: https://img.vakantievibes.be/IMG_6208.HEIC.jpg
+    - title: Castillo de San Miguel
+      position: [28.3731838, -16.7661784]
+      anchor: '#garachico'
+      icon: castle
+      image: https://img.vakantievibes.be/IMG_6201.HEIC.jpg
     - title: Icod de los Vinos
       position: [28.367083, -16.722138]
       anchor: '#icod-de-los-vinos'
@@ -83,7 +88,12 @@ map:
       position: [28.389326, -16.524902]
       anchor: '#la-orotava'
       icon: town
+    - title: Mirador Los 500 escalones
+      position: [28.4901195, -16.4271049]
+      icon: viewpoint
 ---
+
+## Betoverend Tenerife: Ontdek de magie van het noorden
 
 In tegenstelling tot het droge zuiden ontdek je in het noorden het Tenerife van de eeuwige lente.
 
