@@ -55,6 +55,10 @@ map:
       anchor: '#garachico'
       icon: castle
       image: https://img.vakantievibes.be/IMG_6201.HEIC.jpg
+    - title: Mirador de Atalaya
+      position: [28.3670406, -16.7677929]
+      anchor: '#garachico'
+      icon: viewpoint
     - title: Icod de los Vinos
       position: [28.367083, -16.722138]
       anchor: '#icod-de-los-vinos'
@@ -76,6 +80,26 @@ map:
       position: [28.417226, -16.547801]
       anchor: '#puerto-de-la-cruz'
       icon: village
+    - title: Playa del Muelle
+      position: [28.4176125, -16.5506014]
+      anchor: '#puerto-de-la-cruz'
+      icon: beach
+    - title: Playa de Martiánez
+      position: [28.4175392, -16.5414173]
+      anchor: '#puerto-de-la-cruz'
+      icon: beach
+    - title: Playa El Bollullo
+      position: [28.4176306, -16.5202928]
+      anchor: '#puerto-de-la-cruz'
+      icon: beach
+    - title: Playa Jardín
+      position: [28.4133723, -16.5591057]
+      anchor: '#puerto-de-la-cruz'
+      icon: beach
+    - title: El Castillo San Felipe
+      position: [28.4143464, -16.5586006]
+      anchor: '#puerto-de-la-cruz'
+      icon: castle
     - title: Lago Martiánez
       position: [28.418755, -16.544039]
       anchor: '#lago-martiánez'
@@ -88,6 +112,48 @@ map:
       position: [28.389326, -16.524902]
       anchor: '#la-orotava'
       icon: town
+    - title: Iglesia de La Concepción
+      position: [28.3899577, -16.525812]
+      anchor: '#la-orotava'
+      icon: landmark
+      image: https://img.vakantievibes.be/IMG_1839.JPG
+    - title: Casa de los Balcones
+      position: [28.388329, -16.5259976]
+      anchor: '#la-orotava'
+      icon: museum
+    - title: Plaza de la Constitución
+      position: [28.3909789, -16.5231843]
+      anchor: '#la-orotava'
+      icon: landmark
+      image: https://img.vakantievibes.be/IMG_1695.JPG
+    - title: Jardines del Marquesado de la Quinta Roja
+      position: [28.3894313, -16.5231362]
+      anchor: '#la-orotava'
+      icon: tree
+      image: https://img.vakantievibes.be/IMG_1743.JPG
+    - title: Ayuntamiento de La Orotava
+      position: [28.389203, -16.5249682]
+      anchor: '#la-orotava'
+      icon: town-hall
+    - title: Hijuela del Botánico
+      position: [28.3890394, -16.5242927]
+      anchor: '#la-orotava'
+      icon: tree
+    - title: Latijns-Amerikaans ambachtsmuseum
+      position: [28.3924888, -16.5249181]
+      anchor: '#la-orotava'
+      icon: museum
+    - title: Mirador de Humboldt
+      position: [28.4077912, -16.5071779]
+      icon: viewpoint
+    - title: Costa de El Sauzal
+      position: [28.4724324, -16.4453677]
+      anchor: '#costa-de-el-sauzal'
+      icon: pedestrian
+    - title: Sendero Agua García
+      position: [28.4608714, -16.4041181]
+      anchor: '#sendero-agua-garcía'
+      icon: pedestrian
     - title: Mirador Los 500 escalones
       position: [28.4901195, -16.4271049]
       icon: viewpoint
@@ -151,6 +217,10 @@ Tussen de bosrijke natuurgebieden is het recreatiegebied Chanajiga waaruit wande
 De belangrijkste havenstad van het noorden met een bewaard gebleven historisch centrum. In de zomermaanden verblijven hier veel Spaanse toeristen die ontsnappen aan de hitte van het Spaanse vasteland. De kust zijn veelal rotsen en keienstranden, al zijn er ook enkele stranden met zwart zand waarvan Playa Jardín de grootste is, er zijn daar ook enkele cafés en restaurants. Er is meestal veel stroming waarbij de golven op de rotsen inbeuken.
 In het centrum staat de uit het jaar 1600 stammende “Iglesia de San Francisco”, een kerk in de typisch Canarische stijl. Aan de kust, langs de wandelpromenade, staat de witte kapel “Ermita de San Telmo”. In het westen staat “Castillo San Felipe”, dit fort is een mooi uitzichtpunt op het strand Playa Jardín en op het verderop gelegen Punta Brava.
 
+Voor de wandelaars: ga van het stadsstrand Playa Martiánez naar het ruige zwarte zandstrand van Playa El Bollullo.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/playa-martianez-playa-bolullo?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Playa Martiánez - Playa El Bollullo"></iframe>
+
 ##### Lago Martiánez
 
 Wie de zwarte stranden wil mijden kan terecht bij dit groot recreatiecomplex, ontworpen door de bekende Canarische kunstenaar César Manrique. Het circa 100.000 vierkante meter grote park bestaat uit een kunstmatig meer in het midden, alsmede een aantal zwembaden, tuinen, terrassen en restaurants. Meer info op [lagomartianez.es](https://lagomartianez.es/en/).
@@ -161,7 +231,7 @@ Met een oppervlakte van 135.000 m² is dit een van de grootste dieren- en plante
 
 #### La Orotava
 
-Het historische centrum van La Orotava behoort tot de mooiste van het eiland. Er zijn talloze gebouwen, pleinen en tuinen die stuk voor stuk prachtig zijn. Je verkent de historische stad best te voet (parkeer buiten het historisch centrum) waarbij je niet mag vergeten nu en dan eens omhoog te kijken, vele gebouwen hebben fraaie versieringen en de typische Canarische balkons. Gans het centrum is het bezoeken waard. Enkele historische huizen kan je ook bezoeken, zoals “[La Casa de los Balcones](http://www.casa-balcones.com)”.
+Het historische centrum van La Orotava behoort tot de mooiste van het eiland. Er zijn talloze gebouwen, pleinen en tuinen die stuk voor stuk prachtig zijn. Je verkent de historische stad best te voet (parkeer buiten het historisch centrum) waarbij je niet mag vergeten nu en dan eens omhoog te kijken, vele gebouwen hebben fraaie versieringen en de typische Canarische balkons. Gans het centrum is het bezoeken waard. Enkele historische huizen kan je ook bezoeken, zoals “[La Casa de los Balcones](http://www.casa-balcones.com)” en het 17e-eeuws klooster San Benito Abad (nu een ambachtsmuseum). Aan de achterkant van het stadshuis is er een kleine botanische tuin “Hijuela del Botánico”.
 
 <div>
 {%- assign gallery = page.gallery[4] -%}
@@ -169,3 +239,15 @@ Het historische centrum van La Orotava behoort tot de mooiste van het eiland. Er
 {%- assign gallery = page.gallery[5] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+### Costa de El Sauzal
+
+De kust van El Sauzal staat bekend om zijn panoramische uitzichten op de noordkust en zijn rustige sfeer, omdat het minder druk is dan de populaire gebieden rond Puerto de la Cruz. Je kan er prachtig wandelen (zeker bij zonsondergang) langs de kust naar El Puertito over goed onderhouden paden.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/el-sauzal-el-puertito-rojas?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="El Sauzal - El Puertito"></iframe>
+
+### Sendero Agua García
+
+Dit is een van de mooiste boswandelingen in het noorden van het eiland. Het pad slingert door een dicht laurierbos waarbij je op sommige plekken over houten planken wandelt. De belangrijkste bezienswaardigheden zijn de historische lavagrotten en oude waterkanalen. Startpunt is het informatiecentrum van Agua García.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/pr-tf-25-4-circular-lomo-de-la-jara?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PR-TF 25.4 Circular Lomo de la Jara"></iframe>

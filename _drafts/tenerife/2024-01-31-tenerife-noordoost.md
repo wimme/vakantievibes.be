@@ -24,6 +24,30 @@ map:
       position: [28.4540961, -16.2541796]
       anchor: '#santa-cruz-de-tenerife'
       icon: swimming
+    - title: Palmetum
+      position: [28.4520939, -16.2562638]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: tree
+    - title: Parque García Sanabria
+      position: [28.4720443, -16.2538191]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: tree
+    - title: Iglesia Matriz de Nuestra Señora de la Concepción
+      position: [28.4645139, -16.2490006]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: landmark
+    - title: Parroquia de San Francisco de Asís
+      position: [28.4680342, -16.2493931]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: landmark
+    - title: Mercado Ntra. Señora de África
+      position: [28.4633422, -16.2520269]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: building
+    - title: Plaza de España
+      position: [28.4671315, -16.2472879]
+      anchor: '#santa-cruz-de-tenerife'
+      icon: landmark
     - title: Playa de Las Teresitas
       position: [28.5095813, -16.1851715]
       anchor: '#playa-de-las-teresitas'
@@ -34,7 +58,7 @@ map:
       icon: village
     - title: Mirador Cruz del Carmen
       position: [28.530335, -16.2806096]
-      anchor: '#het-anaga-gebergte'
+      anchor: '#mirador-cruz-del-carmen-en-sendero-de-los-sentidos'
       icon: viewpoint
     - title: Mirador De Jardina
       position: [28.5240284, -16.2883215]
@@ -52,10 +76,6 @@ map:
       position: [28.5605394, -16.2171779]
       anchor: '#taganana'
       icon: town
-    - title: Mirador Fuente del Lomo
-      position: [28.5595732, -16.2633125]
-      anchor: '#taborno'
-      icon: viewpoint
     - title: Mirador Roque de Taborno
       position: [28.5692788, -16.265733]
       anchor: '#taborno'
@@ -63,6 +83,22 @@ map:
     - title: Playa de Benijo
       position: [28.5722482, -16.1927712]
       icon: beach
+    - title: Punta del Hidalgo
+      position: [28.5695, -16.3326175]
+      anchor: '#punta-del-hidalgo'
+      icon: pedestrian
+    - title: Punta del Hidalgo vuurtoren
+      position: [28.5763552, -16.3288812]
+      anchor: '#punta-del-hidalgo'
+      icon: monument
+    - title: Mirador Fuente del Lomo
+      position: [28.5595732, -16.2633125]
+      anchor: '#chinamada-en-taborno'
+      icon: viewpoint
+    - title: Mirador Aguaide
+      position: [28.5648556, -16.2948883]
+      anchor: '#chinamada-en-taborno'
+      icon: viewpoint
     - title: Candelaria
       position: [28.3518621, -16.3700205]
       anchor: '#candelaria'
@@ -103,19 +139,29 @@ Mooie rondwandeling: van Afur naar Taganana (PR-TF-8): de route begint op het do
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/pr-tf-8-afur-taganana-afur--2?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="PR-TF 8 Afur – Taganana – Afur"></iframe>
 
-#### Taborno
+#### Mirador Cruz del Carmen en Sendero de los Sentidos
 
-> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/taborno-roque-de-taborno-mirador-barranco-la-fajana?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Taborno - Taborno Rock - La Fajana Ravine Viewpoint"></iframe>
+Vanaf het uitkijkpunt Cruz del Carmen kun je genieten van een prachtig uitzicht over de vallei en de Anaga-toppen. Van hieruit vertrekt het wandelpad "El Sendero de los Sentidos", een korte maar zeer mooie wandeling. Het gaat door een dicht laurierbos wat toch wel een prachtige unieke ervaring is.
 
-#### Sendero de los Sentidos
-
-> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/sendero-de-los-sentidos?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="endero de los Sentidos"></iframe>
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/sendero-de-los-sentidos?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Sendero de los Sentidos"></iframe>
 
 #### Camino viejo al Pico del Inglés
 
 De oude weg naar Pico del Inglés, ook wel bekend als Túnel de las Hadas, is een oude weg die dwars door een bergwand is aangelegd, waardoor een magische plek is ontstaan ​​die zo uit een film lijkt te komen. Het pad wordt geflankeerd door verticale wanden vol vegetatie en mos.
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/pico-del-ingles-cabezo-del-viento-gollada-la-cancela?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Pico del Inglés - Gollada La Cancela - Gollada La Fortaleza"></iframe>
+
+#### Chinamada en Taborno
+
+Deze kleine bergdorpjes zijn per auto bereikbaar, al zijn parkeerplaatsen er zeer beperkt. Onderweg kom je prachtige uitzichtpunten tegen. Bij Chinamada kom je huisjes tegen die in de rotsen ingebouwd zijn. Vanuit Chinamada kan je te voet verder wandelen naar het uitzichtpunt Aguaide. Vanuit Taborno kan je te voet naar uitzichtpunt Mirador Fuente del Lomo en ervaren wandelaars kunnen nog verder naar het uitzichtpunt Roque De Taborno.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/taborno-roque-de-taborno-mirador-barranco-la-fajana?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Taborno - Taborno Rock - La Fajana Ravine Viewpoint"></iframe>
+
+### Punta del Hidalgo
+
+Voor wie niet genoeg kan krijgen van de ruige kliffen kan hier langs de kust wandelen tot aan Playa de los Troches. Je passeert langs de indrukwekkende vuurtoren, alsook oude boerderijen, natuurlijke zwembaden en smalle paadjes langs de kliffen. De oceaan is hier krachtig en de golven zijn hoog, dus het is belangrijk om voldoende afstand te houden van de rand en rekening te houden met de weersomstandigheden.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/tesesinte-punta-del-hidalgo-playa-de-los-troches?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Tesesinte - Punta del Hidalgo - Playa de los Troches"></iframe>
 
 ### Candelaria
 

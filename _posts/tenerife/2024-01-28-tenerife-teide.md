@@ -86,6 +86,10 @@ map:
       position: [28.3062444, -16.5585218]
       anchor: '#mirador-de-el-alto-de-guamaso'
       icon: viewpoint
+    - title: Minas de San José
+      position: [28.2656041,-16.5890131]
+      anchor: '#minas-de-san-josé'
+      icon: viewpoint
 ---
 
 ## Bezoek Parque Nacional del Teide
@@ -148,6 +152,10 @@ Via sendero 3 kan je rond deze rotsformatie wandelen, een eenvoudige wandeling d
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/roques-de-garcia--4?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Roques de García"></iframe>
 
 Voor ervaren wandelaars: via dezelfde wandeling (sendero 3) kan je halfweg via sendero 23 de Pico Viejo beklimmen, de kleinere broer van de Teide.
+
+### Minas de San José
+
+Op deze plaats is het alsof je op Mars bent. Hier zijn dan ook al vele films zoals Clash of the Titans opgenomen. Haal je boterhamdoos boven en geniet van het landschap.
 
 ### La Caldera de Las Cañadas
 

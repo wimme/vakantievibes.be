@@ -30,6 +30,14 @@ map:
     - title: Punta de Teno
       position: [28.3416249, -16.9209344]
       icon: viewpoint
+    - title: Sandero de Las Salinas
+      position: [28.373716, -16.8698803]
+      anchor: '#sandero-de-las-salinas'
+      icon: pedestrian
+    - title: Teno Alto
+      position: [28.3434125, -16.8768841]
+      anchor: '#teno-alto'
+      icon: pedestrian
     - title: Erjos
       position: [28.318918, -16.796801]
       anchor: '#erjos'
@@ -68,6 +76,8 @@ map:
 
 In het noordwesten ligt het Teno massief, een vulkanisch gebergte en beschermd natuurgebied. Het is het meest afgelegen deel van Tenerife. Hier wordt nog aan klassieke landbouw gedaan en er zijn ook nog restanten terug te vinden van de Guanchen, de oorspronkelijke inwoners van de Canarische eilanden voor de Spanjaarden het veroverden.
 
+Het weer kan hier snel omslaan, met mist, wind of kou die op elk moment van het jaar mogelijk zijn. Vaak is het in de ochtend beter om er te wandelen.
+
 ### Masca
 
 Een klein bergdorpje gelegen op 650 meter hoogte, vaak genoemd als het mooiste dorp van Tenerife. Het was reeds een nederzetting van de Guanchen voor de Spaanse verovering in 1496. Parking aan het dorp zelf is zeer beperkt en je mag er maximaal 2 uur blijven staan. De dichtstbijzijnde parkeerplaats is “Mirador Cruz de Hilda” (tevens een mooi uitzichtpunt), 2 km bergopwaarts langs de weg TF-436 richting Buenavista. Hou er ook rekening mee dat het dorp dagelijks bezocht wordt door vele tourbussen, je bezoekt het dus best in de vroege voormiddag of late namiddag.
@@ -87,7 +97,7 @@ Voor de actievelingen onder ons. De kloof was een tijdlang gesloten door het mee
 
 Rij vanuit Masca ook verder naar het uitzichtpunt “Mirador Altos de Baracán“, deze ligt pal op de klimaatgrens tussen het droge zuiden en het vochtige noorden, je kan er een spectaculair schouwspel van zon en wolken aanschouwen met een magnifiek uitzicht over de Los Carrizales ravijn en de berg El Palmar.
 
-Een mooie wandeling die over de Baracán top loopt en het dorpje Teno Alto:
+Een mooie wandeling die over de Baracán top loopt en het dorpje [Teno Alto](#teno-alto):
 
 > <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/callejon-de-teno-cumbre-de-baracan?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Callejón de Teno - Cumbre de Baracán"></iframe>
 
@@ -110,6 +120,18 @@ Een van de mooiste vulkanisch zwarte stranden van Tenerife dat ook al meerdere j
 {%- assign gallery = page.gallery[3] -%}
 {%- include gallery.html gallery=gallery -%}
 </div>
+
+### Buenavista del Norte
+
+#### Sandero de Las Salinas
+
+Wandel langs de kust van Playa de las Arenas naar Playa de las Barqueras. Deze zo goed als vlakke wandeling loopt langs de kust met uitzicht over het golfpark.
+
+#### Teno Alto
+
+In Teno Alto begeef je je in hoger gelegen gebieden waar dennenbomen staan ​​tussen bijzondere rotsformaties en maanlandschappen. De route is van gemiddelde moeilijkheidsgraad: het is langer dan hij lijkt en sommige gedeelten kennen een aanzienlijk hoogteverschil, maar de uitzichten zijn de inspanning meer dan waard.
+
+> <iframe class="alltrails" src="https://www.alltrails.com/widget/trail/spain/tenerife/teno-alto-puerto-malo-hoya-los-palos?u=m&sh=3zevwt" width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Teno Alto - Puerto Malo - Hoya los Palos"></iframe>
 
 ### Erjos
 
