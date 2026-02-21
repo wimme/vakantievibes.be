@@ -100,6 +100,22 @@ map:
       position: [28.4143464, -16.5586006]
       anchor: '#puerto-de-la-cruz'
       icon: castle
+    - title: Iglesia de San Francisco
+      position: [28.4168416, -16.5500758]
+      anchor: '#puerto-de-la-cruz'
+      icon: landmark
+    - title: Ermita de San Telmo
+      position: [28.4175429, -16.5457134]
+      anchor: '#puerto-de-la-cruz'
+      icon: landmark
+    - title: Mirador La Paz
+      position: [28.4155332, -16.5401235]
+      anchor: '#puerto-de-la-cruz'
+      icon: viewpoint
+    - title: De kleurrijke trap van Agatha Christie
+      position: [28.414249, -16.5424279]
+      anchor: '#puerto-de-la-cruz'
+      icon: pedestrian
     - title: Lago Martiánez
       position: [28.418755, -16.544039]
       anchor: '#lago-martiánez'
